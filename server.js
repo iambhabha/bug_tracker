@@ -4,98 +4,146 @@ const axios = require("axios");
 const app = express();
 app.use(express.json());
 
-// ENV variables (Render me set karna)
+//  ENV
 const TELEGRAM_TOKEN = process.env.TELEGRAM_TOKEN;
 const SHEET_WEBHOOK = process.env.SHEET_WEBHOOK;
 
-// Health check
+// Health
 app.get("/", (req, res) => {
-    res.send("🚀 Telegram Bug Bot Running");
+    res.send("Bug Bot Running (Detailed Mode)");
 });
 
-// Telegram Webhook
+//  WEBHOOK
 app.post("/webhook", async (req, res) => {
     try {
-        const body = req.body;
-
-        // safety check
-        if (!body.message) {
-            return res.sendStatus(200);
-        }
-
-        const message = body.message;
+        const message = req.body.message;
+        if (!message) return res.sendStatus(200);
 
         const chatId = message.chat.id;
+
         const username =
             message.from.username ||
             `${message.from.first_name || ""} ${message.from.last_name || ""}` ||
             "unknown";
 
-        const text = message.text || "";
+        const content = message.text || message.caption;
+        if (!content) return res.sendStatus(200);
 
-        console.log("Incoming:", username, text);
+        console.log("Incoming:", username, content);
 
-        // ❌ ignore empty
-        if (!text) {
-            return res.sendStatus(200);
+        // =========================
+        //  SMART TITLE
+        // =========================
+        let title = content.split("\n")[0];
+
+        // =========================
+        //  PRIORITY AUTO
+        // =========================
+        let priority = "MEDIUM";
+        const lower = content.toLowerCase();
+
+        if (
+            lower.includes("crash") ||
+            lower.includes("fail") ||
+            lower.includes("error") ||
+            lower.includes("not working")
+        ) {
+            priority = "HIGH";
         }
 
-        // ✅ OPTIONAL: only allow /bug command
-        // if (!text.startsWith("/bug")) {
-        //   await sendMessage(chatId, "❌ Please use /bug command");
-        //   return res.sendStatus(200);
-        // }
-
-        // ✅ Parse message (advanced format)
-        // Example: login issue | app crash | high
-        let title = text;
-        let description = "";
-        let priority = "normal";
-
-        if (text.includes("|")) {
-            const parts = text.split("|");
-            title = parts[0]?.trim();
-            description = parts[1]?.trim() || "";
-            priority = parts[2]?.trim() || "normal";
+        if (lower.includes("slow") || lower.includes("lag")) {
+            priority = "LOW";
         }
 
-        // 📤 Send to Google Sheet
+        // =========================
+        // AUTO DESCRIPTION
+        // =========================
+        let description = `User reported issue: ${title}`;
+
+        // =========================
+        // AUTO STEPS
+        // =========================
+        let steps = `1. Open app\n2. Perform action related to "${title}"\n3. Observe issue`;
+
+        // =========================
+        //  EXPECTED
+        // =========================
+        let expected = `Feature should work correctly without errors`;
+
+        // =========================
+        //  ACTUAL
+        // =========================
+        let actual = `${title} issue occurring`;
+
+        // =========================
+        //  IMAGE
+        // =========================
+        let imageUrl = "";
+
+        if (message.photo) {
+            const fileId = message.photo[message.photo.length - 1].file_id;
+
+            const fileRes = await axios.get(
+                `https://api.telegram.org/bot${TELEGRAM_TOKEN}/getFile?file_id=${fileId}`
+            );
+
+            const filePath = fileRes.data.result.file_path;
+
+            imageUrl = `https://api.telegram.org/file/bot${TELEGRAM_TOKEN}/${filePath}`;
+        }
+
+        // =========================
+        // SEND TO SHEET
+        // =========================
+        const bugId = Date.now();
+
         await axios.post(SHEET_WEBHOOK, {
-            username,
+            id: bugId,
             title,
             description,
+            steps,
+            expected,
+            actual,
             priority,
-            message: text
+            status: "OPEN",
+            image: imageUrl,
+            reporter: username,
+            date: new Date().toISOString()
         });
 
-        // 📩 Reply to user
-        await sendMessage(chatId, "✅ Bug saved successfully!");
+        // =========================
+        //  TELEGRAM RESPONSE
+        // =========================
+        await sendMessage(
+            chatId,
+            `Bug Created!
+
+ID: ${bugId}
+ ${title}
+ ${priority}
+ Status: OPEN`
+        );
 
         res.sendStatus(200);
-    } catch (error) {
-        console.error("Error:", error.message);
-
+    } catch (err) {
+        console.error("Error:", err.message);
         res.sendStatus(500);
     }
 });
 
-// 📩 Telegram send function
+//  SEND MESSAGE
 async function sendMessage(chatId, text) {
-    try {
-        await axios.post(
-            `https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendMessage`,
-            {
-                chat_id: chatId,
-                text: text,
-            }
-        );
-    } catch (err) {
-        console.error("Telegram Error:", err.message);
-    }
+    await axios.post(
+        `https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendMessage`,
+        {
+            chat_id: chatId,
+            text
+        }
+    );
 }
 
-// Start server
+// START
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
-    console.log(`🚀 Server running on port ${PORT}`);
+    console.log("Server Running");
 });
