@@ -30,7 +30,7 @@ class TelegramIssueWebhookController {
             return;
         }
 
-        const evidenceImageUrl = await this.mediaResolver.extractPhotoUrl(telegramMessage);
+        const evidenceImageUrl = await this.mediaResolver.extractMediaUrl(telegramMessage);
         const issuePayload = IssuePayloadComposer.buildIssuePayload({
             issueText: consolidatedContent,
             issueReporter: reporterIdentity,
