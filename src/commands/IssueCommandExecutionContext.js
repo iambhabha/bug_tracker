@@ -1,7 +1,8 @@
 class IssueCommandExecutionContext {
-    constructor({ chatIdentifier, messageText }) {
+    constructor({ chatIdentifier, messageText, replyToMessage }) {
         this.chatIdentifier = chatIdentifier;
         this.messageText = messageText;
+        this.replyToMessage = replyToMessage;
     }
 }
 

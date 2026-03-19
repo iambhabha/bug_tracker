@@ -1,7 +1,7 @@
 const IssuePriorityHeuristics = require("./IssuePriorityHeuristics");
 
 class IssuePayloadComposer {
-    static buildIssuePayload({ issueText, issueReporter, evidenceImageUrl }) {
+    static buildIssuePayload({ issueText, issueReporter, evidenceImageUrl, chatId }) {
         const issueTitle = issueText.split("\n")[0];
         const issueDescription = issueText;
         const issuePriority = IssuePriorityHeuristics.inferPriority(issueText);
@@ -17,7 +17,8 @@ class IssuePayloadComposer {
             status: "OPEN",
             image: evidenceImageUrl,
             reporter: issueReporter,
-            date: new Date().toISOString()
+            date: new Date().toISOString(),
+            chatId: chatId
         };
     }
 }

@@ -18,7 +18,8 @@ class TelegramIssueWebhookController {
         const { messageText, consolidatedContent } = TelegramIncomingContent.parse(telegramMessage);
         const commandExecutionContext = new IssueCommandExecutionContext({
             chatIdentifier,
-            messageText
+            messageText,
+            replyToMessage: telegramMessage.reply_to_message
         });
 
         const commandHandled = await this.commandRouter.tryHandle(commandExecutionContext);
@@ -34,7 +35,8 @@ class TelegramIssueWebhookController {
         const issuePayload = IssuePayloadComposer.buildIssuePayload({
             issueText: consolidatedContent,
             issueReporter: reporterIdentity,
-            evidenceImageUrl
+            evidenceImageUrl,
+            chatId: chatIdentifier
         });
 
         await this.issueGateway.createIssue(issuePayload);
