@@ -20,6 +20,24 @@ class SheetIssueGateway {
         });
     }
 
+    async markWithStatus(issueId, status) {
+        // Generic method to mark with any status
+        // Normalize status to match expected values
+        let normalizedStatus = status.toUpperCase();
+        if (normalizedStatus === "IN DEVELOPMENT") {
+            normalizedStatus = "IN PROGRESS";
+        } else if (!["DONE", "IN PROGRESS", "OPEN"].includes(normalizedStatus)) {
+            // Map other statuses if needed
+            normalizedStatus = normalizedStatus.toUpperCase();
+        }
+
+        await this.httpClient.post(this.sheetWebhookUrl, {
+            action: "update",
+            id: issueId,
+            status: normalizedStatus
+        });
+    }
+
     async removeIssue(issueId) {
         await this.httpClient.post(this.sheetWebhookUrl, {
             action: "delete",

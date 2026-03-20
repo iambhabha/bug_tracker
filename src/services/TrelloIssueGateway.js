@@ -38,6 +38,30 @@ class TrelloIssueGateway {
         );
     }
 
+    async markOpen(issueId) {
+        const cardId = await this.getCardId(issueId);
+        if (!cardId) return;
+
+        await this.httpClient.put(
+            `${this.baseUrl}/cards/${cardId}?${this.getAuthParams()}`,
+            {
+                idList: await this.getTodoListId()
+            }
+        );
+    }
+
+    async markInReview(issueId) {
+        const cardId = await this.getCardId(issueId);
+        if (!cardId) return;
+
+        await this.httpClient.put(
+            `${this.baseUrl}/cards/${cardId}?${this.getAuthParams()}`,
+            {
+                idList: await this.getReviewListId()
+            }
+        );
+    }
+
     async removeIssue(issueId) {
         const cardId = await this.getCardId(issueId);
         if (!cardId) return;
@@ -76,7 +100,8 @@ class TrelloIssueGateway {
         const todoListId = await this.getTodoListId();
         const labelColor = this.getLabelColor(issuePayload.priority);
         const description = this.buildCardDescription(issuePayload);
-        const title = this.cleanTitle(issuePayload.title || issuePayload.name || "New Issue");
+        const cleanedTitle = this.cleanTitle(issuePayload.title || issuePayload.name || "New Issue");
+        const title = cleanedTitle;
 
         const cardResponse = await this.httpClient.post(
             `${this.baseUrl}/cards?${this.getAuthParams()}`,
@@ -143,6 +168,10 @@ class TrelloIssueGateway {
         return await this.getListIdByAnyName(["Done", "Completed", "Closed"]);
     }
 
+    async getReviewListId() {
+        return await this.getListIdByAnyName(["Review", "In Review", "Code Review", "QA"]);
+    }
+
     getLabelColor(priority) {
         const labelMap = {
             HIGH: "red",
@@ -166,6 +195,7 @@ class TrelloIssueGateway {
 
     buildCardDescription(issuePayload) {
         return [
+            `Issue ID: ${issuePayload.id || "N/A"}`,
             `Description: ${issuePayload.description || ""}`,
             `Priority: ${issuePayload.priority || "MEDIUM"}`,
             `Status: ${issuePayload.status || "OPEN"}`,
@@ -173,6 +203,42 @@ class TrelloIssueGateway {
             `Date: ${issuePayload.date || "N/A"}`,
             `Chat ID: ${issuePayload.chatId || "N/A"}`
         ].join("\n\n");
+    }
+
+    async getIssueIdFromCard(cardId, cardName) {
+        const fromName = this.extractIssueIdFromText(cardName);
+        if (fromName) {
+            return fromName;
+        }
+
+        try {
+            const response = await this.httpClient.get(
+                `${this.baseUrl}/cards/${cardId}?${this.getAuthParams()}`
+            );
+            return this.extractIssueIdFromText(response.data.desc || "");
+        } catch (_error) {
+            return null;
+        }
+    }
+
+    extractIssueIdFromText(text) {
+        const raw = String(text || "");
+        const patterns = [
+            /^ID-(\d+)/i,
+            /^ISSUE-(\d+)/i,
+            /^#(\d+)/,
+            /Issue ID[:\s-]+(\d+)/i,
+            /\bID[:\s-]+(\d+)/i
+        ];
+
+        for (const pattern of patterns) {
+            const match = raw.match(pattern);
+            if (match) {
+                return match[1];
+            }
+        }
+
+        return null;
     }
 
     async attachMediaToCard(cardId, mediaUrl) {

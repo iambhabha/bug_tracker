@@ -1,0 +1,273 @@
+ID,Title,Description,Steps,Expected,Actual,Priority,Status,Image,Reporter,Date,Assignee,ChatID,Preview
+1773814886775,Emoji dekho kaise aa rhi hai,"Emoji dekho kaise aa rhi hai
+Plus mere naam par K kyun aa rha hai","1. Open app
+2. Perform ""Emoji dekho kaise aa rhi hai""
+3. Observe issue",Feature should work correctly,Emoji dekho kaise aa rhi hai issue occurring,MEDIUM,Done,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_0.jpg,unknown (Bhabha),2026-03-18T06:21:26.775Z,,,
+1773814995074,Ab ja ke mera naam aaya hai,"Ab ja ke mera naam aaya hai
+
+Cache ka issue hai","1. Open app
+2. Perform ""Ab ja ke mera naam aaya hai""
+3. Observe issue",Feature should work correctly,Ab ja ke mera naam aaya hai issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_1.jpg,unknown (Bhabha),2026-03-18T06:23:15.074Z,,,
+1773815017469,Sari files story mei avilable nhi hai ,"Sari files story mei avilable nhi hai 
+Video and photo limited aa rhe hai","1. Open app
+2. Perform ""Sari files story mei avilable nhi hai ""
+3. Observe issue",Feature should work correctly,Sari files story mei avilable nhi hai  issue occurring,MEDIUM,OPEN,,unknown (Bhabha),2026-03-18T06:23:37.469Z,,,
+1773815064805,Share and comment is not working,"Share and comment is not working
+
+Send msg ko comment bana de
+
+Aur comment yahi dikh jaye
+
+Jaise koi story dekhe kisi ne comment Kiya to story chalte hue dikh jaye","1. Open app
+2. Perform ""Share and comment is not working""
+3. Observe issue",Feature should work correctly,Share and comment is not working issue occurring,HIGH,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_2.jpg,unknown (Bhabha),2026-03-18T06:24:24.805Z,,,
+1773815096051,Button same nhi hai ,"Button same nhi hai 
+Follow karne ke baad following aana chaiye 
+Following ke click par unfollow hona chaiye","1. Open app
+2. Perform ""Button same nhi hai ""
+3. Observe issue",Feature should work correctly,Button same nhi hai  issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_3.jpg,unknown (Bhabha),2026-03-18T06:24:56.051Z,,,
+1773815111501,Top menu bhi same nhi UI ke,Top menu bhi same nhi UI ke,"1. Open app
+2. Perform ""Top menu bhi same nhi UI ke""
+3. Observe issue",Feature should work correctly,Top menu bhi same nhi UI ke issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_4.jpg,unknown (Bhabha),2026-03-18T06:25:11.501Z,,,
+1773815132571,This same like Insta,This same like Insta,"1. Open app
+2. Perform ""This same like Insta""
+3. Observe issue",Feature should work correctly,This same like Insta issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_5.jpg,unknown (Bhabha),2026-03-18T06:25:32.571Z,,,
+1773815157531,Green kyun UI mei white hai,Green kyun UI mei white hai,"1. Open app
+2. Perform ""Green kyun UI mei white hai""
+3. Observe issue",Feature should work correctly,Green kyun UI mei white hai issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_6.jpg,unknown (Bhabha),2026-03-18T06:25:57.531Z,,,
+1773815185836,"Transparent hai ek Mei - ek Mei black - ek Mei grey - Itna variation kyun hai same screen Mei ?, pop white hai","Transparent hai ek Mei - ek Mei black - ek Mei grey - Itna variation kyun hai same screen Mei ?, pop white hai
+
+@⁨Bhabha⁩ discus hua tha tumhara i
+
+banai hui hai ye ?","1. Open app
+2. Perform ""Transparent hai ek Mei - ek Mei black - ek Mei grey - Itna variation kyun hai same screen Mei ?, pop white hai""
+3. Observe issue",Feature should work correctly,"Transparent hai ek Mei - ek Mei black - ek Mei grey - Itna variation kyun hai same screen Mei ?, pop white hai issue occurring",MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_7.jpg,unknown (Bhabha),2026-03-18T06:26:25.836Z,,,
+1773815206114,Niche DP alag Upar alag?,Niche DP alag Upar alag?,"1. Open app
+2. Perform ""Niche DP alag Upar alag?""
+3. Observe issue",Feature should work correctly,Niche DP alag Upar alag? issue occurring,LOW,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_8.jpg,unknown (Bhabha),2026-03-18T06:26:46.114Z,,,
+1773815253180,View par update hua,View par update hua,"1. Open app
+2. Perform ""View par update hua""
+3. Observe issue",Feature should work correctly,View par update hua issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_9.jpg,unknown (Bhabha),2026-03-18T06:27:33.180Z,,,
+1773815275737,Fir update dikha,"Fir update dikha
+
+Dobara khola","1. Open app
+2. Perform ""Fir update dikha""
+3. Observe issue",Feature should work correctly,Fir update dikha issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_10.jpg,unknown (Bhabha),2026-03-18T06:27:55.737Z,,,
+1773815299998,Fir user,Fir user,"1. Open app
+2. Perform ""Fir user""
+3. Observe issue",Feature should work correctly,Fir user issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_11.jpg,unknown (Bhabha),2026-03-18T06:28:19.998Z,,,
+1773815316297,No post nhi aa rha hai,No post nhi aa rha hai,"1. Open app
+2. Perform ""No post nhi aa rha hai""
+3. Observe issue",Feature should work correctly,No post nhi aa rha hai issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_12.jpg,unknown (Bhabha),2026-03-18T06:28:36.297Z,,,
+1773815334191,Unfollow kar diya fir bhi aa rha hai user upar 0 hai fir bhi,Unfollow kar diya fir bhi aa rha hai user upar 0 hai fir bhi,"1. Open app
+2. Perform ""Unfollow kar diya fir bhi aa rha hai user upar 0 hai fir bhi""
+3. Observe issue",Feature should work correctly,Unfollow kar diya fir bhi aa rha hai user upar 0 hai fir bhi issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_13.jpg,unknown (Bhabha),2026-03-18T06:28:54.191Z,,,
+1773815350242,Not same as UI,Not same as UI,"1. Open app
+2. Perform ""Not same as UI""
+3. Observe issue",Feature should work correctly,Not same as UI issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_14.jpg,unknown (Bhabha),2026-03-18T06:29:10.242Z,,,
+1773815386606,Search ki UI pending hai,Search ki UI pending hai,"1. Open app
+2. Perform ""Search ki UI pending hai""
+3. Observe issue",Feature should work correctly,Search ki UI pending hai issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_15.jpg,unknown (Bhabha),2026-03-18T06:29:46.606Z,,,
+1773815405576,Global user ke liye ye bank option remove karo,Global user ke liye ye bank option remove karo,"1. Open app
+2. Perform ""Global user ke liye ye bank option remove karo""
+3. Observe issue",Feature should work correctly,Global user ke liye ye bank option remove karo issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_16.jpg,unknown (Bhabha),2026-03-18T06:30:05.576Z,,,
+1773815430255,Date daalo time ke sath phele ko do msg pata nhi kab ke hai,Date daalo time ke sath phele ko do msg pata nhi kab ke hai,"1. Open app
+2. Perform ""Date daalo time ke sath phele ko do msg pata nhi kab ke hai""
+3. Observe issue",Feature should work correctly,Date daalo time ke sath phele ko do msg pata nhi kab ke hai issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_17.jpg,unknown (Bhabha),2026-03-18T06:30:30.255Z,,,
+1773815448285,Unfollow ka button aisa kyun hai UI maango iski,Unfollow ka button aisa kyun hai UI maango iski,"1. Open app
+2. Perform ""Unfollow ka button aisa kyun hai UI maango iski""
+3. Observe issue",Feature should work correctly,Unfollow ka button aisa kyun hai UI maango iski issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_18.jpg,unknown (Bhabha),2026-03-18T06:30:48.285Z,,,
+1773815463767,"Separate kha hai dikha rha tumko , user ko dikhega kahi?","Separate kha hai dikha rha tumko , user ko dikhega kahi?","1. Open app
+2. Perform ""Separate kha hai dikha rha tumko , user ko dikhega kahi?""
+3. Observe issue",Feature should work correctly,"Separate kha hai dikha rha tumko , user ko dikhega kahi? issue occurring",MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_19.jpg,unknown (Bhabha),2026-03-18T06:31:03.767Z,,,
+1773815479301,UI se match hi nhi ho rha hai,UI se match hi nhi ho rha hai,"1. Open app
+2. Perform ""UI se match hi nhi ho rha hai""
+3. Observe issue",Feature should work correctly,UI se match hi nhi ho rha hai issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_20.jpg,unknown (Bhabha),2026-03-18T06:31:19.301Z,,,
+1773815495584,Not Same at all ,"Not Same at all 
+
+Agar UI change hui to 
+Tum export liya karo PNG mei fir kam kiya karo 
+
+@⁨~Uditt Shrrimali⁩ designer ko bolo ya khichdi kyun kar rha ha","1. Open app
+2. Perform ""Not Same at all ""
+3. Observe issue",Feature should work correctly,Not Same at all  issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_21.jpg,unknown (Bhabha),2026-03-18T06:31:35.584Z,,,
+1773815510511,Notifications are not showing clearly in activity,Notifications are not showing clearly in activity,"1. Open app
+2. Perform ""Notifications are not showing clearly in activity""
+3. Observe issue",Feature should work correctly,Notifications are not showing clearly in activity issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_22.jpg,unknown (Bhabha),2026-03-18T06:31:50.511Z,,,
+1773815539602,Top sellers nhi - Top Sales hoga,Top sellers nhi - Top Sales hoga,"1. Open app
+2. Perform ""Top sellers nhi - Top Sales hoga""
+3. Observe issue",Feature should work correctly,Top sellers nhi - Top Sales hoga issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_23.jpg,unknown (Bhabha),2026-03-18T06:32:19.602Z,,,
+1773815557708,Reels se related sare notification mention karo doc mei and UI maango,Reels se related sare notification mention karo doc mei and UI maango,"1. Open app
+2. Perform ""Reels se related sare notification mention karo doc mei and UI maango""
+3. Observe issue",Feature should work correctly,Reels se related sare notification mention karo doc mei and UI maango issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_24.jpg,unknown (Bhabha),2026-03-18T06:32:37.708Z,,,
+1773846659324,1. Camera option and gallery option dono aane chaiye ,"1. Camera option and gallery option dono aane chaiye 
+2. Camera option mei sari image nhi aa rhi phone ki 
+3. Story option kyun aa rha hai connect image upload mei 
+4. Upload karne ke baad use current image se karne par verify nhi hua 
+5. New verification image se bhi verify nhi hua 
+6. New verify hone par jo image load ho ke aai vo purani waali verification image aa hai 
+7. Verification fail hone ke baad connect profile tab update nhi hui 
+8. Verification flow mei verification nhi ho rha stuck ho rha hai , user ko text dikhao mobile aage piche karne ka.","1. Open app
+2. Perform ""1. Camera option and gallery option dono aane chaiye ""
+3. Observe issue",Feature should work correctly,1. Camera option and gallery option dono aane chaiye  issue occurring,HIGH,OPEN,,unknown (Bhabha),2026-03-18T15:10:59.324Z,,,
+1773846663075,Unverified ke baad profile tab par abhi verified dikh rha hai,Unverified ke baad profile tab par abhi verified dikh rha hai,"1. Open app
+2. Perform ""Unverified ke baad profile tab par abhi verified dikh rha hai""
+3. Observe issue",Feature should work correctly,Unverified ke baad profile tab par abhi verified dikh rha hai issue occurring,MEDIUM,OPEN,,unknown (Bhabha),2026-03-18T15:11:03.075Z,,,
+1773846667713,New image thi fir bhi verification image old ho aa rhi hai,New image thi fir bhi verification image old ho aa rhi hai,"1. Open app
+2. Perform ""New image thi fir bhi verification image old ho aa rhi hai""
+3. Observe issue",Feature should work correctly,New image thi fir bhi verification image old ho aa rhi hai issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_25.jpg,unknown (Bhabha),2026-03-18T15:11:07.713Z,,,
+1773846681199,Same hi to hua kyun nhi check karo properly,Same hi to hua kyun nhi check karo properly,"1. Open app
+2. Perform ""Same hi to hua kyun nhi check karo properly""
+3. Observe issue",Feature should work correctly,Same hi to hua kyun nhi check karo properly issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_26.jpg,unknown (Bhabha),2026-03-18T15:11:21.199Z,,,
+1773846700792,Profile image nhi connect image mei bhi overlap ho rha hai,Profile image nhi connect image mei bhi overlap ho rha hai,"1. Open app
+2. Perform ""Profile image nhi connect image mei bhi overlap ho rha hai""
+3. Observe issue",Feature should work correctly,Profile image nhi connect image mei bhi overlap ho rha hai issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_27.jpg,unknown (Bhabha),2026-03-18T15:11:40.792Z,,,
+1773846719142,Connect image upload se story ka option kyun open ho rha hai?,Connect image upload se story ka option kyun open ho rha hai?,"1. Open app
+2. Perform ""Connect image upload se story ka option kyun open ho rha hai?""
+3. Observe issue",Feature should work correctly,Connect image upload se story ka option kyun open ho rha hai? issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_28.jpg,unknown (Bhabha),2026-03-18T15:11:59.142Z,,,
+1773846741956,Same UI jaisa nhi whan shayad cross hai following laga diya button UI mei button nhi hai,Same UI jaisa nhi whan shayad cross hai following laga diya button UI mei button nhi hai,"1. Open app
+2. Perform ""Same UI jaisa nhi whan shayad cross hai following laga diya button UI mei button nhi hai""
+3. Observe issue",Feature should work correctly,Same UI jaisa nhi whan shayad cross hai following laga diya button UI mei button nhi hai issue occurring,LOW,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_29.jpg,unknown (Bhabha),2026-03-18T15:12:21.956Z,,,
+1773846766660,"No thumbnail in notification, user ki khud ki image dekho","No thumbnail in notification, user ki khud ki image dekho","1. Open app
+2. Perform ""No thumbnail in notification, user ki khud ki image dekho""
+3. Observe issue",Feature should work correctly,"No thumbnail in notification, user ki khud ki image dekho issue occurring",MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_30.jpg,unknown (Bhabha),2026-03-18T15:12:46.660Z,,,
+1773846796945,"Auto refresh nhi hua about par jaake aaya tab hua , upar se post abhi 0 hai","Auto refresh nhi hua about par jaake aaya tab hua , upar se post abhi 0 hai
+
+Uploading to dikhayega na story aur reel dono case mei 
+
+Insta ke tarah kar de","1. Open app
+2. Perform ""Auto refresh nhi hua about par jaake aaya tab hua , upar se post abhi 0 hai""
+3. Observe issue",Feature should work correctly,"Auto refresh nhi hua about par jaake aaya tab hua , upar se post abhi 0 hai issue occurring",MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_31.jpg,unknown (Bhabha),2026-03-18T15:13:16.945Z,,,
+1773846805575,Upload ho rha hai pata nhi chala rha hai,Upload ho rha hai pata nhi chala rha hai,"1. Open app
+2. Perform ""Upload ho rha hai pata nhi chala rha hai""
+3. Observe issue",Feature should work correctly,Upload ho rha hai pata nhi chala rha hai issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_32.jpg,unknown (Bhabha),2026-03-18T15:13:25.575Z,,,
+1773846821589,Search kam nhi kar rha reels daalne waali jagh par,Search kam nhi kar rha reels daalne waali jagh par,"1. Open app
+2. Perform ""Search kam nhi kar rha reels daalne waali jagh par""
+3. Observe issue",Feature should work correctly,Search kam nhi kar rha reels daalne waali jagh par issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_33.jpg,unknown (Bhabha),2026-03-18T15:13:41.589Z,,,
+1773846836774,Sari photo nhi aa rhi hai connect profile new image upload par,Sari photo nhi aa rhi hai connect profile new image upload par,"1. Open app
+2. Perform ""Sari photo nhi aa rhi hai connect profile new image upload par""
+3. Observe issue",Feature should work correctly,Sari photo nhi aa rhi hai connect profile new image upload par issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_34.jpg,unknown (Bhabha),2026-03-18T15:13:56.774Z,,,
+1773846858036,Ye fix kar ok kar hi nhi paa rha hun,Ye fix kar ok kar hi nhi paa rha hun,"1. Open app
+2. Perform ""Ye fix kar ok kar hi nhi paa rha hun""
+3. Observe issue",Feature should work correctly,Ye fix kar ok kar hi nhi paa rha hun issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_35.jpg,unknown (Bhabha),2026-03-18T15:14:18.036Z,,,
+1773912344440,Live app was crash on add story and shorts (button),Live app was crash on add story and shorts (button),"1. Open app
+2. Perform ""Live app was crash on add story and shorts (button)""
+3. Observe issue",Feature should work correctly,Live app was crash on add story and shorts (button) issue occurring,HIGH,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/videos/file_36.MP4,Bhabha,2026-03-19T09:25:44.440Z,,,
+1773912825965,Arvind ko hi alag alag tarike se 4 bar follow kar liya hai,Arvind ko hi alag alag tarike se 4 bar follow kar liya hai,"1. Open app
+2. Perform ""Arvind ko hi alag alag tarike se 4 bar follow kar liya hai""
+3. Observe issue",Feature should work correctly,Arvind ko hi alag alag tarike se 4 bar follow kar liya hai issue occurring,LOW,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_37.jpg,Ayog Rai,2026-03-19T09:33:45.965Z,,,
+1773912911134,There is no validation for following unfollow and follow back and already followed?,There is no validation for following unfollow and follow back and already followed?,"1. Open app
+2. Perform ""There is no validation for following unfollow and follow back and already followed?""
+3. Observe issue",Feature should work correctly,There is no validation for following unfollow and follow back and already followed? issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/videos/file_38.mp4,Ayog Rai,2026-03-19T09:35:11.134Z,,,
+1773912961721,"After successfully verified my self , it's redirect to listing of user , where I can see 2 profile of my self","After successfully verified my self , it's redirect to listing of user , where I can see 2 profile of my self","1. Open app
+2. Perform ""After successfully verified my self , it's redirect to listing of user , where I can see 2 profile of my self""
+3. Observe issue",Feature should work correctly,"After successfully verified my self , it's redirect to listing of user , where I can see 2 profile of my self issue occurring",MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_39.jpg,Ayog Rai,2026-03-19T09:36:01.721Z,,,
+1773913012229,"Face verification mei kya ho rha user ko pata nhi chal rha hai , to proper guide hona chaiye ki kya pareshani hai ki verification nhi ho paa rha hai to acche se jo bhi karan ho vo user ko batao","Face verification mei kya ho rha user ko pata nhi chal rha hai , to proper guide hona chaiye ki kya pareshani hai ki verification nhi ho paa rha hai to acche se jo bhi karan ho vo user ko batao","1. Open app
+2. Perform ""Face verification mei kya ho rha user ko pata nhi chal rha hai , to proper guide hona chaiye ki kya pareshani hai ki verification nhi ho paa rha hai to acche se jo bhi karan ho vo user ko batao""
+3. Observe issue",Feature should work correctly,"Face verification mei kya ho rha user ko pata nhi chal rha hai , to proper guide hona chaiye ki kya pareshani hai ki verification nhi ho paa rha hai to acche se jo bhi karan ho vo user ko batao issue occurring",MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/videos/file_40.mp4,Ayog Rai,2026-03-19T09:36:52.229Z,,,
+1773913024722,Already existing ya new connect profile jo bhi sabko user name phele se de do ,"Already existing ya new connect profile jo bhi sabko user name phele se de do 
+
+Backend se assign kar do , user change karna chahega to kar lega","1. Open app
+2. Perform ""Already existing ya new connect profile jo bhi sabko user name phele se de do ""
+3. Observe issue",Feature should work correctly,Already existing ya new connect profile jo bhi sabko user name phele se de do  issue occurring,MEDIUM,OPEN,,Ayog Rai,2026-03-19T09:37:04.722Z,,,
+1773913051739,Upar slide thik par kitni image vo bhi dikhao jaise 1/3 aise,Upar slide thik par kitni image vo bhi dikhao jaise 1/3 aise,"1. Open app
+2. Perform ""Upar slide thik par kitni image vo bhi dikhao jaise 1/3 aise""
+3. Observe issue",Feature should work correctly,Upar slide thik par kitni image vo bhi dikhao jaise 1/3 aise issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_41.jpg,Ayog Rai,2026-03-19T09:37:31.739Z,,,
+1773913292561,"I am not able to block the user , blocking functionality is not working","I am not able to block the user , blocking functionality is not working","1. Open app
+2. Perform ""I am not able to block the user , blocking functionality is not working""
+3. Observe issue",Feature should work correctly,"I am not able to block the user , blocking functionality is not working issue occurring",HIGH,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/videos/file_42.mp4,Ayog Rai,2026-03-19T09:41:32.561Z,,,
+1773915793972,Ek hi astro wheel rotation mei dikh rha hai ek hai to mat rotate karo,Ek hi astro wheel rotation mei dikh rha hai ek hai to mat rotate karo,"1. Open app
+2. Perform ""Ek hi astro wheel rotation mei dikh rha hai ek hai to mat rotate karo""
+3. Observe issue",Feature should work correctly,Ek hi astro wheel rotation mei dikh rha hai ek hai to mat rotate karo issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_43.jpg,Ayog Rai,2026-03-19T10:23:13.972Z,,,
+1773915797582,"First time jab profile banate Samy connect ki iPhone jab upload ke liye click karte to camera ka option aata hai vo blank rheta hai , plus sath photo click karo to permission puchne ki jagh ye blank screen aati hai ","First time jab profile banate Samy connect ki iPhone jab upload ke liye click karte to camera ka option aata hai vo blank rheta hai , plus sath photo click karo to permission puchne ki jagh ye blank screen aati hai 
+
+To ye broken hai , permission puchni chaiye na ki aise blank screen , second time jab same kiya to pucha","1. Open app
+2. Perform ""First time jab profile banate Samy connect ki iPhone jab upload ke liye click karte to camera ka option aata hai vo blank rheta hai , plus sath photo click karo to permission puchne ki jagh ye blank screen aati hai ""
+3. Observe issue",Feature should work correctly,"First time jab profile banate Samy connect ki iPhone jab upload ke liye click karte to camera ka option aata hai vo blank rheta hai , plus sath photo click karo to permission puchne ki jagh ye blank screen aati hai  issue occurring",MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_44.jpg,Ayog Rai,2026-03-19T10:23:17.582Z,,,
+1773915844557,"Remove members option now there is only my self so no need to ask , choose default","Remove members option now there is only my self so no need to ask , choose default","1. Open app
+2. Perform ""Remove members option now there is only my self so no need to ask , choose default""
+3. Observe issue",Feature should work correctly,"Remove members option now there is only my self so no need to ask , choose default issue occurring",MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_45.jpg,Ayog Rai,2026-03-19T10:24:04.557Z,,,
+1773916018576,"This new profile which is created by me , and verified after signup , choose option as sign up is astrology, after coming on dash board I clicked on enable connect now I complete all 4 step in which verification is also included, but my profile is not verified as you see in screenshot, I have to edit profile and choose current image to re verify","This new profile which is created by me , and verified after signup , choose option as sign up is astrology, after coming on dash board I clicked on enable connect now I complete all 4 step in which verification is also included, but my profile is not verified as you see in screenshot, I have to edit profile and choose current image to re verify","1. Open app
+2. Perform ""This new profile which is created by me , and verified after signup , choose option as sign up is astrology, after coming on dash board I clicked on enable connect now I complete all 4 step in which verification is also included, but my profile is not verified as you see in screenshot, I have to edit profile and choose current image to re verify""
+3. Observe issue",Feature should work correctly,"This new profile which is created by me , and verified after signup , choose option as sign up is astrology, after coming on dash board I clicked on enable connect now I complete all 4 step in which verification is also included, but my profile is not verified as you see in screenshot, I have to edit profile and choose current image to re verify issue occurring",MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_46.jpg,Ayog Rai,2026-03-19T10:26:58.576Z,,,
+1773916098228,"Connect notification still coming as forever, make it connect","Connect notification still coming as forever, make it connect","1. Open app
+2. Perform ""Connect notification still coming as forever, make it connect""
+3. Observe issue",Feature should work correctly,"Connect notification still coming as forever, make it connect issue occurring",MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_47.jpg,Ayog Rai,2026-03-19T10:28:18.228Z,,,
+1773916193547,Somebody likes my connect profile instead of coming in admire notification badge shows in liked,Somebody likes my connect profile instead of coming in admire notification badge shows in liked,"1. Open app
+2. Perform ""Somebody likes my connect profile instead of coming in admire notification badge shows in liked""
+3. Observe issue",Feature should work correctly,Somebody likes my connect profile instead of coming in admire notification badge shows in liked issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_48.jpg,Ayog Rai,2026-03-19T10:29:53.547Z,,,
+1773916234288,Duration is missing in recent call history,Duration is missing in recent call history,"1. Open app
+2. Perform ""Duration is missing in recent call history""
+3. Observe issue",Feature should work correctly,Duration is missing in recent call history issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_49.jpg,Ayog Rai,2026-03-19T10:30:34.288Z,,,
+1773916300400,"Again a refreshing issue , somebody commented still not update","Again a refreshing issue , somebody commented still not update","1. Open app
+2. Perform ""Again a refreshing issue , somebody commented still not update""
+3. Observe issue",Feature should work correctly,"Again a refreshing issue , somebody commented still not update issue occurring",MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_50.jpg,Ayog Rai,2026-03-19T10:31:40.400Z,,,
+1773916391338,"Image is coming in notification, also request says forever instead on of connect","Image is coming in notification, also request says forever instead on of connect","1. Open app
+2. Perform ""Image is coming in notification, also request says forever instead on of connect""
+3. Observe issue",Feature should work correctly,"Image is coming in notification, also request says forever instead on of connect issue occurring",MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_51.jpg,Ayog Rai,2026-03-19T10:33:11.338Z,,,
+1773916444309,"Reply is coming empty, where Prabibha Singh user comment that, Dhar has nailed","Reply is coming empty, where Prabibha Singh user comment that, Dhar has nailed","1. Open app
+2. Perform ""Reply is coming empty, where Prabibha Singh user comment that, Dhar has nailed""
+3. Observe issue",Feature should work correctly,"Reply is coming empty, where Prabibha Singh user comment that, Dhar has nailed issue occurring",MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_52.jpg,Ayog Rai,2026-03-19T10:34:04.309Z,,,
+1773916498048,After call redirect user to recent call instead of this previous start call pop up,After call redirect user to recent call instead of this previous start call pop up,"1. Open app
+2. Perform ""After call redirect user to recent call instead of this previous start call pop up""
+3. Observe issue",Feature should work correctly,After call redirect user to recent call instead of this previous start call pop up issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_53.jpg,Ayog Rai,2026-03-19T10:34:58.048Z,,,
+1773916572082,Block is not working,Block is not working,"1. Open app
+2. Perform ""Block is not working""
+3. Observe issue",Feature should work correctly,Block is not working issue occurring,HIGH,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/videos/file_54.mp4,Ayog Rai,2026-03-19T10:36:12.082Z,,,
+1773916615811,Follow button is coming for my own profile 😄😄😄,Follow button is coming for my own profile 😄😄😄,"1. Open app
+2. Perform ""Follow button is coming for my own profile 😄😄😄""
+3. Observe issue",Feature should work correctly,Follow button is coming for my own profile 😄😄😄 issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_55.jpg,Ayog Rai,2026-03-19T10:36:55.811Z,,,
+1773916694147,"From reel hastag , when clicked this search has open , still showing 0 post even there is 1 post from where is click this has tag","From reel hastag , when clicked this search has open , still showing 0 post even there is 1 post from where is click this has tag","1. Open app
+2. Perform ""From reel hastag , when clicked this search has open , still showing 0 post even there is 1 post from where is click this has tag""
+3. Observe issue",Feature should work correctly,"From reel hastag , when clicked this search has open , still showing 0 post even there is 1 post from where is click this has tag issue occurring",MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_56.jpg,Ayog Rai,2026-03-19T10:38:14.147Z,,,
+1773916716998,"Feed also keep loading, no results has fetched","Feed also keep loading, no results has fetched","1. Open app
+2. Perform ""Feed also keep loading, no results has fetched""
+3. Observe issue",Feature should work correctly,"Feed also keep loading, no results has fetched issue occurring",MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_57.jpg,Ayog Rai,2026-03-19T10:38:36.998Z,,,
+1773921811034,Not able to open profile clicking on do,Not able to open profile clicking on do,"1. Open app
+2. Perform ""Not able to open profile clicking on do""
+3. Observe issue",Feature should work correctly,Not able to open profile clicking on do issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_58.jpg,Ayog Rai,2026-03-19T12:03:31.034Z,,,
+1773922018765,"In App Purchase , apple upi reuest declined , Keep loading","In App Purchase , apple upi reuest declined , Keep loading","1. Open app
+2. Perform ""In App Purchase , apple upi reuest declined , Keep loading""
+3. Observe issue",Feature should work correctly,"In App Purchase , apple upi reuest declined , Keep loading issue occurring",MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_59.jpg,Ayog Rai,2026-03-19T12:06:58.765Z,,,
+1773922517577,"When user first time click on call button exceptions error comes , and error throw and visible in app kindly fix , this is first time call in connect","When user first time click on call button exceptions error comes , and error throw and visible in app kindly fix , this is first time call in connect","1. Open app
+2. Perform ""When user first time click on call button exceptions error comes , and error throw and visible in app kindly fix , this is first time call in connect""
+3. Observe issue",Feature should work correctly,"When user first time click on call button exceptions error comes , and error throw and visible in app kindly fix , this is first time call in connect issue occurring",HIGH,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_60.jpg,Ayog Rai,2026-03-19T12:15:17.578Z,,,
+1773922864422,"Pratibha Singh Calling Ayog Rai but Ayog not receiving the call , but when Ayog call this user even in background call are coming, check if this new user issue as exception error comes first so may be because of that call not going thru or Ayog Rai user having issue to reviving the call , this user is on iPhone 16 and Ayog Rai on Nothing 3A android 16 ","Pratibha Singh Calling Ayog Rai but Ayog not receiving the call , but when Ayog call this user even in background call are coming, check if this new user issue as exception error comes first so may be because of that call not going thru or Ayog Rai user having issue to reviving the call , this user is on iPhone 16 and Ayog Rai on Nothing 3A android 16 
+Check and fix the issue","1. Open app
+2. Perform ""Pratibha Singh Calling Ayog Rai but Ayog not receiving the call , but when Ayog call this user even in background call are coming, check if this new user issue as exception error comes first so may be because of that call not going thru or Ayog Rai user having issue to reviving the call , this user is on iPhone 16 and Ayog Rai on Nothing 3A android 16 ""
+3. Observe issue",Feature should work correctly,"Pratibha Singh Calling Ayog Rai but Ayog not receiving the call , but when Ayog call this user even in background call are coming, check if this new user issue as exception error comes first so may be because of that call not going thru or Ayog Rai user having issue to reviving the call , this user is on iPhone 16 and Ayog Rai on Nothing 3A android 16  issue occurring",HIGH,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_61.jpg,Ayog Rai,2026-03-19T12:21:04.422Z,,,
+1773923090128,"Ayog Rai did not receive notification for the message, but when ayog sent hello back the iPhone user received.","Ayog Rai did not receive notification for the message, but when ayog sent hello back the iPhone user received.","1. Open app
+2. Perform ""Ayog Rai did not receive notification for the message, but when ayog sent hello back the iPhone user received.""
+3. Observe issue",Feature should work correctly,"Ayog Rai did not receive notification for the message, but when ayog sent hello back the iPhone user received. issue occurring",MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_62.jpg,Ayog Rai,2026-03-19T12:24:50.128Z,,,
+1773923272189,"In gift notification, the user image is not coming who is sending a gift, The missed call from whom is not clear in notification includes the name and also the DP","In gift notification, the user image is not coming who is sending a gift, The missed call from whom is not clear in notification includes the name and also the DP
+
+OTHER notification also missing Images","1. Open app
+2. Perform ""In gift notification, the user image is not coming who is sending a gift, The missed call from whom is not clear in notification includes the name and also the DP""
+3. Observe issue",Feature should work correctly,"In gift notification, the user image is not coming who is sending a gift, The missed call from whom is not clear in notification includes the name and also the DP issue occurring",MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_63.jpg,Ayog Rai,2026-03-19T12:27:52.189Z,,,
+1773923356817,After 15 minutes I received the Msg notification and call notification,After 15 minutes I received the Msg notification and call notification,"1. Open app
+2. Perform ""After 15 minutes I received the Msg notification and call notification""
+3. Observe issue",Feature should work correctly,After 15 minutes I received the Msg notification and call notification issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_64.jpg,Ayog Rai,2026-03-19T12:29:16.817Z,,,
+1773923448860,"This call already end because this notification recived after 15 minute when I am trying to accept nothing is happening, no error no close , user getting confused, please end to call with proper msg even such case","This call already end because this notification recived after 15 minute when I am trying to accept nothing is happening, no error no close , user getting confused, please end to call with proper msg even such case","1. Open app
+2. Perform ""This call already end because this notification recived after 15 minute when I am trying to accept nothing is happening, no error no close , user getting confused, please end to call with proper msg even such case""
+3. Observe issue",Feature should work correctly,"This call already end because this notification recived after 15 minute when I am trying to accept nothing is happening, no error no close , user getting confused, please end to call with proper msg even such case issue occurring",HIGH,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_65.jpg,Ayog Rai,2026-03-19T12:30:48.860Z,,,
+1773923636004,No option to delete the comment and reply from reel.,No option to delete the comment and reply from reel.,"1. Open app
+2. Perform ""No option to delete the comment and reply from reel.""
+3. Observe issue",Feature should work correctly,No option to delete the comment and reply from reel. issue occurring,MEDIUM,OPEN,,Ayog Rai,2026-03-19T12:33:56.004Z,,,
+1773924078045,"When the notification was delayed the user stuck with no option  , no back , close or other option user got stuck","When the notification was delayed the user stuck with no option  , no back , close or other option user got stuck","1. Open app
+2. Perform ""When the notification was delayed the user stuck with no option  , no back , close or other option user got stuck""
+3. Observe issue",Feature should work correctly,"When the notification was delayed the user stuck with no option  , no back , close or other option user got stuck issue occurring",MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/videos/file_66.mp4,Ayog Rai,2026-03-19T12:41:18.045Z,,,
+1773924313235,Not able to send a gift in reels,Not able to send a gift in reels,"1. Open app
+2. Perform ""Not able to send a gift in reels""
+3. Observe issue",Feature should work correctly,Not able to send a gift in reels issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/videos/file_67.mp4,Ayog Rai,2026-03-19T12:45:13.235Z,,,
+1773924467638,Instead of you Name is coming if you go to reel post from there profile,Instead of you Name is coming if you go to reel post from there profile,"1. Open app
+2. Perform ""Instead of you Name is coming if you go to reel post from there profile""
+3. Observe issue",Feature should work correctly,Instead of you Name is coming if you go to reel post from there profile issue occurring,MEDIUM,OPEN,https://api.telegram.org/file/bot8631812413:AAEeQb_UUe9VS-ryWF7cITnd1XYbmsgQ80w/photos/file_68.jpg,Ayog Rai,2026-03-19T12:47:47.638Z,,,
+1773924487997,No option delete the post/reel,No option delete the post/reel,"1. Open app
+2. Perform ""No option delete the post/reel""
+3. Observe issue",Feature should work correctly,No option delete the post/reel issue occurring,MEDIUM,OPEN,,Ayog Rai,2026-03-19T12:48:07.997Z,,,
+1773924686126,First time user when received call from any another user pop option cancel and block are not working.,First time user when received call from any another user pop option cancel and block are not working.,"1. Open app
+2. Perform ""First time user when received call from any another user pop option cancel and block are not working.""
+3. Observe issue",Feature should work correctly,First time user when received call from any another user pop option cancel and block are not working. issue occurring,HIGH,OPEN,,Ayog Rai,2026-03-19T12:51:26.126Z,,,
+1773924795181,"When a user calls and is not received by another user in connect , no answer screen is missing.","When a user calls and is not received by another user in connect , no answer screen is missing.","1. Open app
+2. Perform ""When a user calls and is not received by another user in connect , no answer screen is missing.""
+3. Observe issue",Feature should work correctly,"When a user calls and is not received by another user in connect , no answer screen is missing. issue occurring",MEDIUM,OPEN,,Ayog Rai,2026-03-19T12:53:15.181Z,,,
