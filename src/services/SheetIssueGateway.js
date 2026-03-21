@@ -28,6 +28,8 @@ class SheetIssueGateway {
             normalizedStatus = "IN PROGRESS";
         } else if (normalizedStatus === "BUG NOT RESOLVED") {
             normalizedStatus = "BUG NOT RESOLVED";
+        } else if (normalizedStatus === "FUTURE UPDATE") {
+            normalizedStatus = "FUTURE UPDATE";
         } else if (!["DONE", "IN PROGRESS", "OPEN"].includes(normalizedStatus)) {
             // Map other statuses if needed
             normalizedStatus = normalizedStatus.toUpperCase();

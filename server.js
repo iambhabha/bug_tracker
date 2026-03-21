@@ -26,6 +26,7 @@ const TRELLO_LIST_STATUS_MAP = {
     "69bcd6995ed92343b8dfee81": "IN PROGRESS",    // In Development
     "69bcc0a478f5faa9a902ee40": "IN REVIEW",      // Review
     "69be1cf457fd814f40f58ab5": "BUG NOT RESOLVED", // Bug Not Resolved
+    "69bcc0a478f5faa9a902ee41": "FUTURE UPDATE",  // Future Update
     "69bcc0a478f5faa9a902ee42": "DONE"            // Done
 };
 

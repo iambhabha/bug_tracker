@@ -305,11 +305,21 @@ function beautifyDashboard(sheet) {
   // Conditional formatting
   const rules = [];
 
+  // ========== PRIORITY COLUMN FORMATTING (G) ==========
+  rules.push(
+    SpreadsheetApp.newConditionalFormatRule()
+      .whenTextEqualTo("CRITICAL")
+      .setBackground("#7f1d1d")
+      .setFontColor("#ffffff")
+      .setRanges([sheet.getRange("G2:G")])
+      .build()
+  );
+
   rules.push(
     SpreadsheetApp.newConditionalFormatRule()
       .whenTextEqualTo("HIGH")
-      .setBackground("#ef4444")
-      .setFontColor("#fff")
+      .setBackground("#dc2626")
+      .setFontColor("#ffffff")
       .setRanges([sheet.getRange("G2:G")])
       .build()
   );
@@ -317,7 +327,8 @@ function beautifyDashboard(sheet) {
   rules.push(
     SpreadsheetApp.newConditionalFormatRule()
       .whenTextEqualTo("MEDIUM")
-      .setBackground("#facc15")
+      .setBackground("#f59e0b")
+      .setFontColor("#111827")
       .setRanges([sheet.getRange("G2:G")])
       .build()
   );
@@ -325,18 +336,18 @@ function beautifyDashboard(sheet) {
   rules.push(
     SpreadsheetApp.newConditionalFormatRule()
       .whenTextEqualTo("LOW")
-      .setBackground("#22c55e")
-      .setFontColor("#fff")
+      .setBackground("#10b981")
+      .setFontColor("#ffffff")
       .setRanges([sheet.getRange("G2:G")])
       .build()
   );
 
-  // ========== STATUS COLUMN FORMATTING ==========
+  // ========== STATUS COLUMN FORMATTING (H) ==========
   rules.push(
     SpreadsheetApp.newConditionalFormatRule()
       .whenTextEqualTo("OPEN")
-      .setBackground("#ef4444")
-      .setFontColor("#fff")
+      .setBackground("#2563eb")
+      .setFontColor("#ffffff")
       .setRanges([sheet.getRange("H2:H")])
       .build()
   );
@@ -344,8 +355,26 @@ function beautifyDashboard(sheet) {
   rules.push(
     SpreadsheetApp.newConditionalFormatRule()
       .whenTextEqualTo("IN PROGRESS")
-      .setBackground("#facc15")
-      .setFontColor("#000")
+      .setBackground("#0ea5e9")
+      .setFontColor("#ffffff")
+      .setRanges([sheet.getRange("H2:H")])
+      .build()
+  );
+
+  rules.push(
+    SpreadsheetApp.newConditionalFormatRule()
+      .whenTextEqualTo("IN DEVELOPMENT")
+      .setBackground("#0ea5e9")
+      .setFontColor("#ffffff")
+      .setRanges([sheet.getRange("H2:H")])
+      .build()
+  );
+
+  rules.push(
+    SpreadsheetApp.newConditionalFormatRule()
+      .whenTextEqualTo("DOING")
+      .setBackground("#0ea5e9")
+      .setFontColor("#ffffff")
       .setRanges([sheet.getRange("H2:H")])
       .build()
   );
@@ -353,8 +382,26 @@ function beautifyDashboard(sheet) {
   rules.push(
     SpreadsheetApp.newConditionalFormatRule()
       .whenTextEqualTo("IN REVIEW")
-      .setBackground("#8b5cf6")
-      .setFontColor("#fff")
+      .setBackground("#7c3aed")
+      .setFontColor("#ffffff")
+      .setRanges([sheet.getRange("H2:H")])
+      .build()
+  );
+
+  rules.push(
+    SpreadsheetApp.newConditionalFormatRule()
+      .whenTextEqualTo("BUG NOT RESOLVED")
+      .setBackground("#ea580c")
+      .setFontColor("#ffffff")
+      .setRanges([sheet.getRange("H2:H")])
+      .build()
+  );
+
+  rules.push(
+    SpreadsheetApp.newConditionalFormatRule()
+      .whenTextEqualTo("FUTURE UPDATE")
+      .setBackground("#334155")
+      .setFontColor("#ffffff")
       .setRanges([sheet.getRange("H2:H")])
       .build()
   );
@@ -362,8 +409,8 @@ function beautifyDashboard(sheet) {
   rules.push(
     SpreadsheetApp.newConditionalFormatRule()
       .whenTextEqualTo("DONE")
-      .setBackground("#22c55e")
-      .setFontColor("#fff")
+      .setBackground("#16a34a")
+      .setFontColor("#ffffff")
       .setRanges([sheet.getRange("H2:H")])
       .build()
   );

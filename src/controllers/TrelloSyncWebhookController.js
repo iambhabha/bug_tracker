@@ -28,6 +28,7 @@ class TrelloSyncWebhookController {
             "review": "IN REVIEW",
             "in review": "IN REVIEW",
             "bug not resolved": "BUG NOT RESOLVED",
+            "future update": "FUTURE UPDATE",
             "done": "DONE",
             "completed": "DONE",
             "closed": "DONE"

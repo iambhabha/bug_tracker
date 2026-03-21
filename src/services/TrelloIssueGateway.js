@@ -77,6 +77,21 @@ class TrelloIssueGateway {
         );
     }
 
+    async markFutureUpdate(issueId) {
+        const cardId = await this.getCardId(issueId);
+        if (!cardId) {
+            console.warn(`⚠️ Trello card not found for issue ${issueId} (markFutureUpdate)`);
+            return;
+        }
+
+        await this.httpClient.put(
+            `${this.baseUrl}/cards/${cardId}?${this.getAuthParams()}`,
+            {
+                idList: await this.getFutureUpdateListId()
+            }
+        );
+    }
+
     async removeIssue(issueId) {
         const cardId = await this.getCardId(issueId);
         if (!cardId) return;
@@ -204,6 +219,10 @@ class TrelloIssueGateway {
 
     async getReviewListId() {
         return await this.getListIdByAnyName(["Review", "In Review", "Code Review", "QA"]);
+    }
+
+    async getFutureUpdateListId() {
+        return await this.getListIdByAnyName(["Future Update", "Future", "Planned", "Later"]);
     }
 
     getLabelColor(priority) {
