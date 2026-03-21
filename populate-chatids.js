@@ -11,7 +11,7 @@ require("dotenv").config();
  * 3. Sends linkchat webhooks to update Google Sheet
  */
 
-const SHEET_WEBHOOK_URL = process.env.SHEET_WEBHOOK_URL;
+const SHEET_WEBHOOK_URL = process.env.SHEET_WEBHOOK;
 const FORCE_CHAT_ID = process.env.FORCE_CHAT_ID || process.argv[2] || "";
 
 if (!SHEET_WEBHOOK_URL) {
