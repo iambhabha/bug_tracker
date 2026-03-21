@@ -136,6 +136,7 @@ class IssuesMigration {
 
     buildCardDescription(issue) {
         return [
+            `Issue ID: ${issue.id || "N/A"}`,
             `Description: ${issue.description || ""}`,
             `Priority: ${issue.priority || "MEDIUM"}`,
             `Status: ${issue.status || "OPEN"}`,

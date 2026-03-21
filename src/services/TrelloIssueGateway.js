@@ -1,4 +1,6 @@
 const FormData = require("form-data");
+const fs = require("fs");
+const path = require("path");
 
 class TrelloIssueGateway {
     constructor(trelloConfig, httpClient) {
@@ -8,6 +10,7 @@ class TrelloIssueGateway {
         this.httpClient = httpClient;
         this.baseUrl = "https://api.trello.com/1";
         this.cardMap = {}; // Map to store issueId -> trelloCardId
+        this.issueTitleMap = null;
     }
 
     getAuthParams() {
@@ -142,7 +145,26 @@ class TrelloIssueGateway {
 
     // Helper methods
     async getCardId(issueId) {
-        return this.cardMap[issueId] || issueId;
+        const normalizedIssueId = String(issueId || "").trim();
+        if (!normalizedIssueId) {
+            return null;
+        }
+
+        if (this.cardMap[normalizedIssueId]) {
+            return this.cardMap[normalizedIssueId];
+        }
+
+        if (/^[a-f0-9]{24}$/i.test(normalizedIssueId)) {
+            return normalizedIssueId;
+        }
+
+        const resolvedCardId = await this.findCardIdByIssueId(normalizedIssueId);
+        if (resolvedCardId) {
+            this.cardMap[normalizedIssueId] = resolvedCardId;
+            return resolvedCardId;
+        }
+
+        return null;
     }
 
     async getCardName(cardId) {
@@ -215,10 +237,112 @@ class TrelloIssueGateway {
             const response = await this.httpClient.get(
                 `${this.baseUrl}/cards/${cardId}?${this.getAuthParams()}`
             );
-            return this.extractIssueIdFromText(response.data.desc || "");
+            const fromDesc = this.extractIssueIdFromText(response.data.desc || "");
+            if (fromDesc) {
+                return fromDesc;
+            }
+
+            return this.findIssueIdByTitle(response.data.name || cardName || "");
+        } catch (_error) {
+            return this.findIssueIdByTitle(cardName || "");
+        }
+    }
+
+    async findCardIdByIssueId(issueId) {
+        try {
+            const response = await this.httpClient.get(
+                `${this.baseUrl}/boards/${this.boardId}/cards?fields=id,name,desc&${this.getAuthParams()}`
+            );
+
+            const cards = response.data || [];
+
+            // Preferred: card description contains Issue ID.
+            const descMatch = cards.find((card) =>
+                this.extractIssueIdFromText(card.desc || "") === String(issueId)
+            );
+            if (descMatch) {
+                return descMatch.id;
+            }
+
+            // Fallback: card title contains parseable issue ID.
+            const nameMatch = cards.find((card) =>
+                this.extractIssueIdFromText(card.name || "") === String(issueId)
+            );
+            if (nameMatch) {
+                return nameMatch.id;
+            }
+
+            // Last fallback: match card title with issue title from local issues.json.
+            const expectedTitle = this.getIssueTitleById(issueId);
+            if (expectedTitle) {
+                const expectedNormalized = this.normalizeTextForMatch(expectedTitle);
+                const titleMatch = cards.find(
+                    (card) => this.normalizeTextForMatch(card.name || "") === expectedNormalized
+                );
+                if (titleMatch) {
+                    return titleMatch.id;
+                }
+            }
+
+            return null;
         } catch (_error) {
             return null;
         }
+    }
+
+    getIssueTitleById(issueId) {
+        const map = this.loadIssueTitleMap();
+        return map[String(issueId)] || null;
+    }
+
+    findIssueIdByTitle(cardName) {
+        const normalizedCardName = this.normalizeTextForMatch(cardName);
+        if (!normalizedCardName) {
+            return null;
+        }
+
+        const map = this.loadIssueTitleMap();
+        for (const [id, title] of Object.entries(map)) {
+            if (this.normalizeTextForMatch(title) === normalizedCardName) {
+                return id;
+            }
+        }
+
+        return null;
+    }
+
+    loadIssueTitleMap() {
+        if (this.issueTitleMap) {
+            return this.issueTitleMap;
+        }
+
+        const map = {};
+        try {
+            const issuesPath = path.resolve(process.cwd(), "issues.json");
+            if (!fs.existsSync(issuesPath)) {
+                this.issueTitleMap = map;
+                return map;
+            }
+
+            const payload = JSON.parse(fs.readFileSync(issuesPath, "utf-8"));
+            for (const issue of payload) {
+                if (issue && issue.id != null && issue.title) {
+                    map[String(issue.id)] = String(issue.title);
+                }
+            }
+        } catch (_error) {
+            // Ignore; sync can still work from desc-based IDs.
+        }
+
+        this.issueTitleMap = map;
+        return map;
+    }
+
+    normalizeTextForMatch(value) {
+        return String(value || "")
+            .toLowerCase()
+            .replace(/\s+/g, " ")
+            .trim();
     }
 
     extractIssueIdFromText(text) {
