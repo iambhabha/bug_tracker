@@ -19,17 +19,23 @@ class SheetSyncWebhookController {
         }
 
         if (action === 'update' && status) {
+            const normalizedStatus = String(status).toUpperCase();
+
             // Map sheet status to Trello action
-            if (status === 'IN PROGRESS') {
+            if (normalizedStatus === 'IN PROGRESS') {
                 await this.trelloGateway.markInProgress(id);
                 console.log(`✅ Synced Sheet issue ${id} to Trello: IN PROGRESS`);
-            } else if (status === 'IN REVIEW') {
+            } else if (normalizedStatus === 'IN REVIEW') {
                 await this.trelloGateway.markInReview(id);
                 console.log(`✅ Synced Sheet issue ${id} to Trello: IN REVIEW`);
-            } else if (status === 'DONE') {
+            } else if (normalizedStatus === 'BUG NOT RESOLVED') {
+                // Rejected from review; send it back to development list.
+                await this.trelloGateway.markInProgress(id);
+                console.log(`✅ Synced Sheet issue ${id} to Trello: BUG NOT RESOLVED -> IN PROGRESS`);
+            } else if (normalizedStatus === 'DONE') {
                 await this.trelloGateway.markDone(id);
                 console.log(`✅ Synced Sheet issue ${id} to Trello: DONE`);
-            } else if (status === 'OPEN') {
+            } else if (normalizedStatus === 'OPEN') {
                 // Optionally move back to TODO/backlog
                 await this.trelloGateway.markOpen(id);
                 console.log(`✅ Synced Sheet issue ${id} to Trello: OPEN`);

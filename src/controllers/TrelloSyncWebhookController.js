@@ -13,6 +13,29 @@ class TrelloSyncWebhookController {
         this.listStatusMap = listStatusMap;
     }
 
+    resolveStatusFromListName(listName) {
+        const normalized = String(listName || "").trim().toLowerCase();
+
+        const nameMap = {
+            "to do": "OPEN",
+            "todo": "OPEN",
+            "issues": "OPEN",
+            "backlog": "OPEN",
+            "doing": "IN PROGRESS",
+            "in progress": "IN PROGRESS",
+            "in development": "IN PROGRESS",
+            "development": "IN PROGRESS",
+            "review": "IN REVIEW",
+            "in review": "IN REVIEW",
+            "bug not resolved": "BUG NOT RESOLVED",
+            "done": "DONE",
+            "completed": "DONE",
+            "closed": "DONE"
+        };
+
+        return nameMap[normalized] || null;
+    }
+
     async processTrelloWebhook(webhookData) {
         // Trello webhook sends data in this format:
         // {
@@ -29,7 +52,9 @@ class TrelloSyncWebhookController {
         if (action.type === 'updateCard' && action.data.card) {
             const card = action.data.card;
             const newListId = card.idList;
-            const status = this.listStatusMap[newListId];
+            const status =
+                this.listStatusMap[newListId] ||
+                this.resolveStatusFromListName(action.data.listAfter && action.data.listAfter.name);
 
             if (status) {
                 const issueId = await this.resolveIssueId(card);

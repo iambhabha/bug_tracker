@@ -37,6 +37,10 @@ class IssuesMigration {
             return this.getListIdByAnyName(lists, ["Done", "Completed", "Closed"]);
         }
 
+        if (normalizedStatus === "BUG NOT RESOLVED") {
+            return this.getListIdByAnyName(lists, ["Bug Not Resolved", "Not Resolved", "Rework"]);
+        }
+
         if (normalizedStatus === "IN PROGRESS") {
             return this.getListIdByAnyName(lists, ["In Progress", "In Development", "Doing", "Development"]);
         }

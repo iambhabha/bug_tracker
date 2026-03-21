@@ -26,6 +26,8 @@ class SheetIssueGateway {
         let normalizedStatus = status.toUpperCase();
         if (normalizedStatus === "IN DEVELOPMENT") {
             normalizedStatus = "IN PROGRESS";
+        } else if (normalizedStatus === "BUG NOT RESOLVED") {
+            normalizedStatus = "BUG NOT RESOLVED";
         } else if (!["DONE", "IN PROGRESS", "OPEN"].includes(normalizedStatus)) {
             // Map other statuses if needed
             normalizedStatus = normalizedStatus.toUpperCase();
