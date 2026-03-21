@@ -12,7 +12,7 @@ class LinkChatCommand extends IssueWorkflowCommand {
         if (!issueId) {
             await this.telegramNotifier.send(
                 executionContext.chatIdentifier,
-                "Usage: /linkchat <issueId>\n\nExample: /linkchat BUG-123"
+                "⚠️ Please provide a bug ID.\nUsage: /linkchat <issueId>\nExample: /linkchat 1773912825965"
             );
             return true;
         }
@@ -22,7 +22,7 @@ class LinkChatCommand extends IssueWorkflowCommand {
 
         await this.telegramNotifier.send(
             executionContext.chatIdentifier,
-            `✅ Bug ${issueId} linked to this chat!\nNow you'll receive notifications here.`
+            `🔗 Bug ID: ${issueId} linked to this chat.\nYou will receive updates here.`
         );
         return true;
     }

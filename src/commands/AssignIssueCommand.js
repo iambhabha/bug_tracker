@@ -23,7 +23,15 @@ class AssignIssueCommand extends IssueWorkflowCommand {
         if (!issueId) {
             await this.telegramNotifier.send(
                 executionContext.chatIdentifier,
-                "Error: Please reply to a bug message or provide issue ID\nUsage: /assign <issueId> <owner> or reply to bug message with /assign <owner>"
+                "⚠️ Please reply to a bug message or provide issue ID.\nUsage: /assign <issueId> <owner>\nOr reply to a bug message with: /assign <owner>"
+            );
+            return true;
+        }
+
+        if (!responsibleOwner) {
+            await this.telegramNotifier.send(
+                executionContext.chatIdentifier,
+                "⚠️ Please provide assignee name.\nUsage: /assign <issueId> <owner>"
             );
             return true;
         }
@@ -31,7 +39,7 @@ class AssignIssueCommand extends IssueWorkflowCommand {
         await this.sheetIssueGateway.assignIssue(issueId, responsibleOwner);
         await this.telegramNotifier.send(
             executionContext.chatIdentifier,
-            `Bug ${issueId} assigned to ${responsibleOwner}`
+            `👤 Bug ID: ${issueId} assigned to ${responsibleOwner}.`
         );
         return true;
     }

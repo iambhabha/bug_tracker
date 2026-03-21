@@ -23,7 +23,7 @@ class TelegramIssueWebhookController {
         this.upsertUserChatMapping(telegramMessage, reporterIdentity, chatIdentifier);
 
         if ((messageText || "").trim().toLowerCase() === "/mychatid") {
-            await this.notifier.send(chatIdentifier, `Your chat ID is: ${chatIdentifier}`);
+            await this.notifier.send(chatIdentifier, `🆔 Your chat ID is: ${chatIdentifier}`);
             return;
         }
 
@@ -54,14 +54,7 @@ class TelegramIssueWebhookController {
 
         await this.notifier.send(
             chatIdentifier,
-            [
-                "Bug created",
-                `ID: ${issuePayload.id}`,
-                `Title: ${issuePayload.title}`,
-                `Priority: ${issuePayload.priority}`,
-                `Reporter: ${issuePayload.reporter}`,
-                "Status: OPEN"
-            ].join("\n")
+            `✅ Bug ID: ${issuePayload.id}\n🙏 Thanks for your bug submission to KARMM. We appreciate your contribution. We will resolve this and notify you soon.`
         );
     }
 

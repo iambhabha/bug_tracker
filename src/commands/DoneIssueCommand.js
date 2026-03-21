@@ -7,8 +7,19 @@ class DoneIssueCommand extends IssueWorkflowCommand {
 
     async execute(executionContext) {
         const issueId = executionContext.messageText.split(" ")[1];
+        if (!issueId) {
+            await this.telegramNotifier.send(
+                executionContext.chatIdentifier,
+                "⚠️ Please provide a bug ID.\nUsage: /done <issueId>"
+            );
+            return true;
+        }
+
         await this.sheetIssueGateway.markDone(issueId);
-        await this.telegramNotifier.send(executionContext.chatIdentifier, `Bug ${issueId} marked as DONE`);
+        await this.telegramNotifier.send(
+            executionContext.chatIdentifier,
+            `✅ Bug ID: ${issueId} is now DONE.`
+        );
         return true;
     }
 }
