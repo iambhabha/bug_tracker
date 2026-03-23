@@ -6,6 +6,7 @@ const IssuePayloadComposer = require("../domain/IssuePayloadComposer");
 const IssueCommandExecutionContext = require("../commands/IssueCommandExecutionContext");
 
 const TELEGRAM_USERS_FILE = path.resolve(process.cwd(), "telegram-users.json");
+const ACCESS_DENIED_CONTACTS = ["Bhabha", "Ayog Rai"];
 
 class TelegramIssueWebhookController {
     constructor({ issueGateway, notifier, mediaResolver, commandRouter }) {
@@ -20,12 +21,38 @@ class TelegramIssueWebhookController {
         const reporterIdentity = TelegramReporterIdentity.composeReporter(telegramMessage.from);
 
         const { messageText, consolidatedContent } = TelegramIncomingContent.parse(telegramMessage);
-        this.upsertUserChatMapping(telegramMessage, reporterIdentity, chatIdentifier);
+        const authorizedUserRecords = this.loadAuthorizedUsers();
 
         if ((messageText || "").trim().toLowerCase() === "/mychatid") {
             await this.notifier.send(chatIdentifier, `🆔 Your chat ID is: ${chatIdentifier}`);
             return;
         }
+
+        const isAuthorizedReporter = this.isAuthorizedReporter(
+            telegramMessage,
+            reporterIdentity,
+            authorizedUserRecords
+        );
+
+        if (!isAuthorizedReporter) {
+            const accessDeniedMessage = this.composeAccessDeniedMessage(
+                telegramMessage,
+                reporterIdentity,
+                chatIdentifier,
+                authorizedUserRecords
+            );
+
+            await this.notifier.send(chatIdentifier, accessDeniedMessage);
+            await this.notifyAuthorizedUsersAboutUnauthorizedAttempt(
+                telegramMessage,
+                reporterIdentity,
+                chatIdentifier,
+                authorizedUserRecords
+            );
+            return;
+        }
+
+        this.upsertUserChatMapping(telegramMessage, reporterIdentity, chatIdentifier);
 
         const commandExecutionContext = new IssueCommandExecutionContext({
             chatIdentifier,
@@ -58,19 +85,163 @@ class TelegramIssueWebhookController {
         );
     }
 
+    loadAuthorizedUsers() {
+        try {
+            if (!fs.existsSync(TELEGRAM_USERS_FILE)) {
+                return [];
+            }
+
+            const parsed = JSON.parse(fs.readFileSync(TELEGRAM_USERS_FILE, "utf-8"));
+            if (!Array.isArray(parsed)) {
+                return [];
+            }
+
+            return parsed.filter((record) => record && typeof record.username === "string");
+        } catch (error) {
+            console.error("Failed to load telegram user mapping:", error.message);
+            return [];
+        }
+    }
+
+    isAuthorizedReporter(telegramMessage, reporterIdentity, authorizedUserRecords) {
+        const candidates = this.buildReporterCandidateNames(telegramMessage, reporterIdentity);
+        const allowedNames = this.extractAllowedNameSet(authorizedUserRecords);
+
+        for (const candidate of candidates) {
+            if (allowedNames.has(this.normalizeIdentity(candidate))) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    composeAccessDeniedMessage(telegramMessage, reporterIdentity, chatIdentifier, authorizedUserRecords) {
+        const from = telegramMessage.from || {};
+        const displayName = `${from.first_name || ""} ${from.last_name || ""}`.trim() || "Unknown User";
+        const username = from.username ? `@${from.username}` : "N/A";
+        const userId = from.id ? String(from.id) : "N/A";
+        const contacts = this.composeContactDisplay(authorizedUserRecords);
+
+        return [
+            "You do not have access. This bug tracker is private.",
+            `Currently, only these users have permission to submit bugs: ${contacts}.`,
+            "If you need to report a bug, please contact them first.",
+            "",
+            "Your details:",
+            `- Name: ${displayName}`,
+            `- Username: ${username}`,
+            `- Reporter Identity: ${reporterIdentity || "N/A"}`,
+            `- Telegram User ID: ${userId}`,
+            `- Chat ID: ${chatIdentifier}`
+        ].join("\n");
+    }
+
+    async notifyAuthorizedUsersAboutUnauthorizedAttempt(
+        telegramMessage,
+        reporterIdentity,
+        chatIdentifier,
+        authorizedUserRecords
+    ) {
+        const from = telegramMessage.from || {};
+        const displayName = `${from.first_name || ""} ${from.last_name || ""}`.trim() || "Unknown User";
+        const username = from.username ? `@${from.username}` : "N/A";
+        const userId = from.id ? String(from.id) : "N/A";
+
+        const alertText = [
+            "Unauthorized bug submission attempt detected.",
+            `Name: ${displayName}`,
+            `Username: ${username}`,
+            `Reporter Identity: ${reporterIdentity || "N/A"}`,
+            `Telegram User ID: ${userId}`,
+            `Chat ID: ${chatIdentifier}`
+        ].join("\n");
+
+        const notifiedChatIds = new Set();
+        for (const record of authorizedUserRecords) {
+            if (!record.chatId) {
+                continue;
+            }
+
+            const targetChatId = String(record.chatId).trim();
+            if (!targetChatId || targetChatId === String(chatIdentifier) || notifiedChatIds.has(targetChatId)) {
+                continue;
+            }
+
+            try {
+                await this.notifier.send(targetChatId, alertText);
+                notifiedChatIds.add(targetChatId);
+            } catch (error) {
+                console.error("Failed to notify authorized user:", error.message);
+            }
+        }
+    }
+
+    composeContactDisplay(authorizedUserRecords) {
+        const contactNames = [];
+        const seen = new Set();
+
+        for (const record of authorizedUserRecords) {
+            const normalized = this.normalizeIdentity(record.username);
+            if (normalized && !seen.has(normalized)) {
+                seen.add(normalized);
+                contactNames.push(record.username.trim());
+            }
+        }
+
+        for (const fallbackName of ACCESS_DENIED_CONTACTS) {
+            const normalizedFallback = this.normalizeIdentity(fallbackName);
+            if (!seen.has(normalizedFallback)) {
+                seen.add(normalizedFallback);
+                contactNames.push(fallbackName);
+            }
+        }
+
+        return contactNames.join(", ");
+    }
+
+    extractAllowedNameSet(authorizedUserRecords) {
+        const allowed = new Set();
+
+        for (const record of authorizedUserRecords) {
+            if (!record.username) {
+                continue;
+            }
+
+            allowed.add(this.normalizeIdentity(record.username));
+        }
+
+        for (const fallbackName of ACCESS_DENIED_CONTACTS) {
+            allowed.add(this.normalizeIdentity(fallbackName));
+        }
+
+        return allowed;
+    }
+
+    buildReporterCandidateNames(telegramMessage, reporterIdentity) {
+        const from = telegramMessage.from || {};
+        const fullName = `${from.first_name || ""} ${from.last_name || ""}`.trim();
+        const candidates = [
+            reporterIdentity,
+            this.extractReporterAlias(reporterIdentity),
+            fullName,
+            from.username ? `@${from.username}` : "",
+            from.username || ""
+        ];
+
+        return candidates.filter(Boolean);
+    }
+
+    normalizeIdentity(value) {
+        return String(value || "")
+            .trim()
+            .replace(/^@/, "")
+            .toLowerCase();
+    }
+
     upsertUserChatMapping(telegramMessage, reporterIdentity, chatIdentifier) {
         try {
-            const from = telegramMessage.from || {};
-            const fullName = `${from.first_name || ""} ${from.last_name || ""}`.trim();
-            const reporterAlias = this.extractReporterAlias(reporterIdentity);
-
-            const candidateNames = [
-                reporterIdentity,
-                reporterAlias,
-                fullName,
-                from.username ? `@${from.username}` : "",
-                from.username || ""
-            ].filter(Boolean);
+            const candidateNames = this.buildReporterCandidateNames(telegramMessage, reporterIdentity);
 
             let records = [];
             if (fs.existsSync(TELEGRAM_USERS_FILE)) {
@@ -79,7 +250,7 @@ class TelegramIssueWebhookController {
 
             for (const name of candidateNames) {
                 const existing = records.find(
-                    (item) => (item.username || "").toLowerCase() === name.toLowerCase()
+                    (item) => this.normalizeIdentity(item.username) === this.normalizeIdentity(name)
                 );
 
                 if (existing) {
