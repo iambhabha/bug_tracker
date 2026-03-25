@@ -12,7 +12,7 @@ class SheetSyncWebhookController {
         //   status: 'IN PROGRESS'  or 'DONE' or 'OPEN'
         // }
 
-        const { action, id, status } = webhookData;
+        const { action, id, status, title, description } = webhookData;
 
         if (!action || !id) {
             return false;
@@ -43,6 +43,18 @@ class SheetSyncWebhookController {
                 await this.trelloGateway.markOpen(id);
                 console.log(`✅ Synced Sheet issue ${id} to Trello: OPEN`);
             }
+            return true;
+        }
+
+        if (action === 'updateTitle' && title) {
+            await this.trelloGateway.updateIssueTitle(id, title);
+            console.log(`✅ Synced Sheet issue ${id} to Trello: TITLE UPDATED`);
+            return true;
+        }
+
+        if (action === 'updateDescription' && description) {
+            await this.trelloGateway.updateIssueDescription(id, description);
+            console.log(`✅ Synced Sheet issue ${id} to Trello: DESCRIPTION UPDATED`);
             return true;
         }
 

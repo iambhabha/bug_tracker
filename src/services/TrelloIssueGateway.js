@@ -3,6 +3,23 @@ const fs = require("fs");
 const path = require("path");
 
 class TrelloIssueGateway {
+    async updateIssueTitle(issueId, newTitle) {
+        const cardId = await this.getCardId(issueId);
+        if (!cardId) return;
+        await this.httpClient.put(
+            `${this.baseUrl}/cards/${cardId}?${this.getAuthParams()}`,
+            { name: newTitle }
+        );
+    }
+
+    async updateIssueDescription(issueId, newDescription) {
+        const cardId = await this.getCardId(issueId);
+        if (!cardId) return;
+        await this.httpClient.put(
+            `${this.baseUrl}/cards/${cardId}?${this.getAuthParams()}`,
+            { desc: newDescription }
+        );
+    }
     constructor(trelloConfig, httpClient) {
         this.trelloKey = trelloConfig.key;
         this.trelloToken = trelloConfig.token;
