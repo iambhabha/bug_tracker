@@ -1,0 +1,2380 @@
+Card ID,Card Name,Card URL,Card Description,Labels,Members,Due Date,Attachment Count,Attachment Links,Checklist Item Total Count,Checklist Item Completed Count,Vote Count,Comment Count,Last Activity Date,List ID,List Name,Board ID,Board Name,Archived,Start Date,Due Complete,Due Reminder
+69c4e50e4522def3a095b231,"By using enable connect when I am trying to make a bug and return to the app , the flash screen appears now I am stuck to astrology signup why?",https://trello.com/c/VQ8ispu9/600-by-using-enable-connect-when-i-am-trying-to-make-a-bug-and-return-to-the-app-the-flash-screen-appears-now-i-am-stuck-to-astrolog,"Issue ID: 1774511373828
+
+Description: By using enable connect when I am trying to make a bug and return to the app , the flash screen appears now I am stuck to astrology signup why?
+
+It's a major bug , as a user I only option left to skip only
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-26T07:49:33.828Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c4e50e4522def3a095b231/attachments/69c4e50f6e5f0decdf049ffa/download/evidence.jpg,0,0,0,0,2026-03-26T10:12:09.995Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bda845772e515ea623e9e2,"Text on reel gets stretched, it should be the same as create, not like this",https://trello.com/c/UKPfSTGP/528-text-on-reel-gets-stretched-it-should-be-the-same-as-create-not-like-this,"Issue ID: 1774037061330
+
+Description: Text on reel gets stretched, it should be the same as create, not like this
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T20:04:21.330Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69bda845772e515ea623e9e2/attachments/69bda8468049a9992447f2a5/download/evidence.jpg,0,0,0,0,2026-03-26T06:08:55.152Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c224b0c14e1b032857ae18,"Sometimes the loader keeps running, sometimes data from another tab appears, and sometimes the API call doesn’t happen at all.",https://trello.com/c/a0CWAfe8/537-sometimes-the-loader-keeps-running-sometimes-data-from-another-tab-appears-and-sometimes-the-api-call-doesnt-happen-at-all,"Issue ID: 1774331056110
+
+Description: Sometimes the loader keeps running, sometimes data from another tab appears, and sometimes the API call doesn’t happen at all.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Bhabha
+
+Date: 2026-03-24T05:44:16.110Z
+
+Chat ID: 8579720706",Copy Request (yellow),,,1,https://trello.com/1/cards/69c224b0c14e1b032857ae18/attachments/69c224b17a75a0400cb1d21c/download/evidence.jpg,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c4e437aaea638ca18fde9e,"From the main profile you already have user information like gender , time of birth , place of birth , current location, and you have the image also , so why you not auto filling them automatically.",https://trello.com/c/DJgAdFGI/599-from-the-main-profile-you-already-have-user-information-like-gender-time-of-birth-place-of-birth-current-location-and-you-have-t,"Issue ID: 1774511158807
+
+Description: From the main profile you already have user information like gender , time of birth , place of birth , current location, and you have the image also , so why you not auto filling them automatically.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-26T07:45:58.807Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c4e437aaea638ca18fde9e/attachments/69c4e43802567899d750da01/download/evidence.jpg,0,0,0,0,2026-03-26T10:12:09.995Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c403542e901096ea5d7ab2,"In connect when the user either ignored profiles and there is no profile or when there is no profile anymore to show the text like button where ignored profile , on click list will come the same as feed where the user can remove them from ignore or can do the rest of the operation also",https://trello.com/c/2sikoCWQ/598-in-connect-when-the-user-either-ignored-profiles-and-there-is-no-profile-or-when-there-is-no-profile-anymore-to-show-the-text-li,"Issue ID: 1774453588164
+
+Description: In connect when the user either ignored profiles and there is no profile or when there is no profile anymore to show the text like button where ignored profile , on click list will come the same as feed where the user can remove them from ignore or can do the rest of the operation also
+
+No direct access for this only when there is no more profile for the user to show only.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-25T15:46:28.164Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,0,,0,0,0,0,2026-03-26T10:12:09.995Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c2530384ab13c64c57c0de,"Bottom navigation bar aur background color ki vajh se alag alag dikh hi nhi rhi hai , shadow ya border line kuch to dikhao",https://trello.com/c/GobyPRpe/579-bottom-navigation-bar-aur-background-color-ki-vajh-se-alag-alag-dikh-hi-nhi-rhi-hai-shadow-ya-border-line-kuch-to-dikhao,"Issue ID: 1774342914620
+
+Description: Bottom navigation bar aur background color ki vajh se alag alag dikh hi nhi rhi hai , shadow ya border line kuch to dikhao
+
+Priority: LOW
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T09:01:54.620Z
+
+Chat ID: 8673576825",,,,1,https://trello.com/1/cards/69c2530384ab13c64c57c0de/attachments/69c253040c6be247e8ee57bc/download/evidence.jpg,0,0,0,0,2026-03-25T09:42:54.905Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd0966019832fa3e364848,"Again a refreshing issue , somebody commented still not update",https://trello.com/c/ERN7OcNP/479-again-a-refreshing-issue-somebody-commented-still-not-update,"Issue ID: 1773916300400
+
+Title: Again a refreshing issue , somebody commented still not update
+
+Description: Again a refreshing issue , somebody commented still not update
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T10:31:40.400Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd0966019832fa3e364848/attachments/69bd0967643287ed196c1578/download/evidence.jpg,0,0,0,0,2026-03-25T08:45:07.018Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69be1fc51d032bc4f9c9888f,Why are send empty message please fix this issue.,https://trello.com/c/ruY1xiBT/531-why-are-send-empty-message-please-fix-this-issue,"Issue ID: 1774067652884
+
+Description: Why are send empty message please fix this issue.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Bhabha
+
+Date: 2026-03-21T04:34:12.884Z
+
+Chat ID: 8579720706",Copy Request (yellow),,,1,https://trello.com/1/cards/69be1fc51d032bc4f9c9888f/attachments/69be1fc5e278730fe3f717ca/download/evidence.jpg,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c4021db20962b2225b8514,"Why is this toast coming, what is it for ?",https://trello.com/c/2PzKNjlt/597-why-is-this-toast-coming-what-is-it-for,"Issue ID: 1774453276914
+
+Description: Why is this toast coming, what is it for ?
+Explain me , just don't remove it
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-25T15:41:16.914Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c4021db20962b2225b8514/attachments/69c4021ea17c016f78062257/download/evidence.jpg,0,0,0,0,2026-03-26T10:12:09.995Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c3f3d33f8cb54324c65d2a,"Gender and current location is not saved when I signup from connect , it should save.",https://trello.com/c/FSnurhUT/596-gender-and-current-location-is-not-saved-when-i-signup-from-connect-it-should-save,"Issue ID: 1774449618854
+
+Description: Gender and current location is not saved when I signup from connect , it should save.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-25T14:40:18.854Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c3f3d33f8cb54324c65d2a/attachments/69c3f3d498fd4ca461bbf249/download/evidence.jpg,0,0,0,0,2026-03-26T10:12:09.995Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bda915f7bc3b5f5f3d9200,"Ayog and Arvind both seen this story , but still count coming 1 only, check even after killing app also no update",https://trello.com/c/1AVEefZz/529-ayog-and-arvind-both-seen-this-story-but-still-count-coming-1-only-check-even-after-killing-app-also-no-update,"Issue ID: 1774037269373
+
+Description: Ayog and Arvind both seen this story , but still count coming 1 only, check even after killing app also no update
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T20:07:49.373Z
+
+Chat ID: 8623040742",Copy Request (yellow),,,1,https://trello.com/1/cards/69bda915f7bc3b5f5f3d9200/attachments/69bda91694ee9cddbfef6941/download/evidence.jpg,0,0,0,0,2026-03-25T05:14:14.639Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bda1db6693ad88a3d13771,"I am logged in as Arvind still in reel it's saying you on Ayog Rai Reels , major Cache issue should be resolved.",https://trello.com/c/M7uFOhwV/525-i-am-logged-in-as-arvind-still-in-reel-its-saying-you-on-ayog-rai-reels-major-cache-issue-should-be-resolved,"Issue ID: 1774035419581
+
+Description: I am logged in as Arvind still in reel it's saying you on Ayog Rai Reels , major Cache issue should be resolved.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T19:36:59.581Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69bda1db6693ad88a3d13771/attachments/69bda1dcd5e24ddcdae82e39/download/evidence.jpg,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bda1745d07359663ec1395,"Image is missing, cache issue , handle it properly, even first you should load the image",https://trello.com/c/gao9fzZx/524-image-is-missing-cache-issue-handle-it-properly-even-first-you-should-load-the-image,"Issue ID: 1774035316590
+
+Description: Image is missing, cache issue , handle it properly, even first you should load the image
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T19:35:16.590Z
+
+Chat ID: 8623040742",Copy Request (yellow),,,1,https://trello.com/1/cards/69bda1745d07359663ec1395/attachments/69bda175c736c8d31858250c/download/evidence.jpg,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd988b600ef74deef9dc1a,"Mention @ not giving proper suggestions also why in suggestion no comment is coming, there should only suggestion should come",https://trello.com/c/NR9m6wGo/514-mention-not-giving-proper-suggestions-also-why-in-suggestion-no-comment-is-coming-there-should-only-suggestion-should-come,"Issue ID: 1774033035367
+
+Description: Mention @ not giving proper suggestions also why in suggestion no comment is coming, there should only suggestion should come
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T18:57:15.367Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69bd988b600ef74deef9dc1a/attachments/69bd988ca652cbf59eab3f4b/download/evidence.jpg,0,0,0,1,2026-03-26T06:20:22.553Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c24ed699597780addee43e,There is an option for 4 images of how she is able to upload 7 images,https://trello.com/c/ceSIJB6g/576-there-is-an-option-for-4-images-of-how-she-is-able-to-upload-7-images,"Issue ID: 1774341846587
+
+Description: There is an option for 4 images of how she is able to upload 7 images 
+Please explain
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T08:44:06.587Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c24ed699597780addee43e/attachments/69c24ed7bfb70697355c9fc1/download/evidence.jpg,0,0,0,2,2026-03-26T09:32:01.437Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd091dc5367f47014dc32f,"Separate kha hai dikha rha tumko , user ko dikhega kahi?",https://trello.com/c/ocZisUgc/445-separate-kha-hai-dikha-rha-tumko-user-ko-dikhega-kahi,"Issue ID: 1773815463767
+
+Title: Separate kha hai dikha rha tumko , user ko dikhega kahi?
+
+Description: Separate kha hai dikha rha tumko , user ko dikhega kahi?
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T06:31:03.767Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd091dc5367f47014dc32f/attachments/69bd091ecb58f0186aa14ada/download/evidence.jpg,0,0,0,1,2026-03-25T13:16:04.591Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd097470de69d887ead529,"From reel hastag , when clicked this search has open , still showing 0 post even there is 1 post from where is click this has tag",https://trello.com/c/XIWFnqmj/485-from-reel-hastag-when-clicked-this-search-has-open-still-showing-0-post-even-there-is-1-post-from-where-is-click-this-has-tag,"Issue ID: 1773916694147
+
+Title: From reel hastag , when clicked this search has open , still showing 0 post even there is 1 post from where is click this has tag
+
+Description: From reel hastag , when clicked this search has open , still showing 0 post even there is 1 post from where is click this has tag
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T10:38:14.147Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd097470de69d887ead529/attachments/69bd0975fc6adae922d11f36/download/evidence.jpg,0,0,0,0,2026-03-26T09:31:51.341Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd095d765c0c31233ced20,"This new profile which is created by me , and verified after signup , choose option as sign up is astrology, after coming on dash board I clicked on enable connect now I complete all 4 step in which verification is also included, but my profile is not verified as you see in screenshot, I have to edit profile and choose current image to re verify",https://trello.com/c/1WtjX8ME/475-this-new-profile-which-is-created-by-me-and-verified-after-signup-choose-option-as-sign-up-is-astrology-after-coming-on-dash-boa,"Issue ID: 1773916018576
+
+Title: This new profile which is created by me , and verified after signup , choose option as sign up is astrology, after coming on dash board I clicked on enable connect now I complete all 4 step in which verification is also included, but my profile is not verified as you see in screenshot, I have to edit profile and choose current image to re verify
+
+Description: This new profile which is created by me , and verified after signup , choose option as sign up is astrology, after coming on dash board I clicked on enable connect now I complete all 4 step in which verification is also included, but my profile is not verified as you see in screenshot, I have to edit profile and choose current image to re verify
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T10:26:58.576Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd095d765c0c31233ced20/attachments/69bd095e1f78f9773dac2047/download/evidence.jpg,0,0,0,1,2026-03-25T13:16:08.776Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd9a287371ee881abf9046,Why muting/disabling audio pause the video in the creating story or reel??,https://trello.com/c/aeEp1sJB/515-why-muting-disabling-audio-pause-the-video-in-the-creating-story-or-reel,"Issue ID: 1774033447985
+
+Description: Why muting/disabling audio pause the video in the creating story or reel??
+User should have able to disable the audio
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T19:04:07.985Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69bd9a287371ee881abf9046/attachments/69bd9a2983e966288fba84c0/download/evidence.mp4,0,0,0,0,2026-03-25T13:16:38.805Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c24fde9609c041d873d481,Not able to msg user from here nothing happens on msg icon click,https://trello.com/c/9fQk8IVT/578-not-able-to-msg-user-from-here-nothing-happens-on-msg-icon-click,"Issue ID: 1774342110605
+
+Description: Not able to msg user from here nothing happens on msg icon click 
+1. I liked her
+2. Send friend request 
+3. Send the gift to here 
+4. Followed here 
+Then click on msg , nothing happens.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T08:48:30.605Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c24fde9609c041d873d481/attachments/69c24fe0ac9d2ce055df0a03/download/evidence.jpg,0,0,0,0,2026-03-25T13:19:03.856Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c24e1af780840e812506b3,"Ask for confirmation, also show the toast msg when done , from both listing and detail page.",https://trello.com/c/omQpQbuU/574-ask-for-confirmation-also-show-the-toast-msg-when-done-from-both-listing-and-detail-page,"Issue ID: 1774341658493
+
+Description: Ask for confirmation, also show the toast msg when done , from both listing and detail page.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T08:40:58.493Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c24e1af780840e812506b3/attachments/69c24e1ca3e8ed527d22f4fe/download/evidence.jpg,0,0,0,0,2026-03-25T13:24:34.897Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd9e2a62316789509541e3,"Logged in as Arvind , Posting as Ayog why?",https://trello.com/c/lGILr4GI/522-logged-in-as-arvind-posting-as-ayog-why,"Issue ID: 1774034474664
+
+Description: Logged in as Arvind , Posting as Ayog why?
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T19:21:14.664Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69bd9e2a62316789509541e3/attachments/69bd9e2cc372bbb91e4213d7/download/evidence.jpg,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c24f598990990abc3011c5,"When there is no post in feeds at least show no post yet from (with Name) Kanchan Kumari , right now just blank and screen is stuck not able to make slide up as about , because of lack of the content.",https://trello.com/c/1lv83NIj/577-when-there-is-no-post-in-feeds-at-least-show-no-post-yet-from-with-name-kanchan-kumari-right-now-just-blank-and-screen-is-stuck,"Issue ID: 1774341977687
+
+Description: When there is no post in feeds at least show no post yet from (with Name)  Kanchan Kumari , right now just blank and screen is stuck not able to make slide up as about , because of lack of the content.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T08:46:17.687Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c24f598990990abc3011c5/attachments/69c24f5bb2e03762e9288f23/download/evidence.jpg,0,0,0,0,2026-03-25T13:18:18.493Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd0907e42e30498abb3685,View par update hua,https://trello.com/c/M233vFjs/435-view-par-update-hua,"Issue ID: 1773815253180
+
+Title: View par update hua
+
+Description: View par update hua
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T06:27:33.180Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd0907e42e30498abb3685/attachments/69bd09080facf35d4dc038f5/download/evidence.jpg,0,0,0,0,2026-03-25T13:16:16.807Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd09145515cc77efe4c6af,Search ki UI pending hai,https://trello.com/c/hlPq61Qu/441-search-ki-ui-pending-hai,"Issue ID: 1773815386606
+
+Title: Search ki UI pending hai
+
+Description: Search ki UI pending hai
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T06:29:46.606Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd09145515cc77efe4c6af/attachments/69bd09161f78f9773dab0fab/download/evidence.jpg,0,0,0,0,2026-03-25T13:14:51.050Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd9ca5462436f8db5a8db2,I posted today why it's saying yesterday?,https://trello.com/c/P3T8MQrT/521-i-posted-today-why-its-saying-yesterday,"Issue ID: 1774034084722
+
+Description: I posted today why it's saying yesterday?
+Posted after 12 AM right now 12:44AM
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T19:14:44.722Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69bd9ca5462436f8db5a8db2/attachments/69bd9ca50bf210f125e39fb7/download/evidence.jpg,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd9c360193fd476b2d8227,Why count coming here ?,https://trello.com/c/UBYUmHgz/520-why-count-coming-here,"Issue ID: 1774033974360
+
+Description: Why count coming here ?
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T19:12:54.360Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69bd9c360193fd476b2d8227/attachments/69bd9c3709f25b6d43242d56/download/evidence.jpg,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd9b74e87312583051c542,Share button in story is not working,https://trello.com/c/pbzE07y4/518-share-button-in-story-is-not-working,"Issue ID: 1774033780369
+
+Description: Share button in story is not working
+
+Priority: HIGH
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T19:09:40.369Z
+
+Chat ID: 8623040742",Priority (red),,,1,https://trello.com/1/cards/69bd9b74e87312583051c542/attachments/69bd9b756894316bfc5135d1/download/evidence.jpg,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd9b24b9e65f9c7243dd63,Instead of name username is coming,https://trello.com/c/xQaeF8mK/517-instead-of-name-username-is-coming,"Issue ID: 1774033700264
+
+Description: Instead of name username is coming
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T19:08:20.264Z
+
+Chat ID: 8623040742",Copy Request (yellow),,,1,https://trello.com/1/cards/69bd9b24b9e65f9c7243dd63/attachments/69bd9b25c71e0835a5dcf854/download/evidence.jpg,0,0,0,0,2026-03-25T05:11:54.305Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd97afb73a53763e9a1c10,I am no longer following this user still not able to see the follow button,https://trello.com/c/b72fUmxo/513-i-am-no-longer-following-this-user-still-not-able-to-see-the-follow-button,"Issue ID: 1774032815490
+
+Description: I am no longer following this user still not able to see the follow button
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T18:53:35.490Z
+
+Chat ID: 8623040742",Copy Request (yellow),,,1,https://trello.com/1/cards/69bd97afb73a53763e9a1c10/attachments/69bd97b0f6e2c8d3cf718fb8/download/evidence.jpg,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd97684ef7db0ed8e6c71e,Follow buttons is coming for self also,https://trello.com/c/bOrWslgb/512-follow-buttons-is-coming-for-self-also,"Issue ID: 1774032744429
+
+Description: Follow buttons is coming for self also
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T18:52:24.429Z
+
+Chat ID: 8623040742",Copy Request (yellow),,,1,https://trello.com/1/cards/69bd97684ef7db0ed8e6c71e/attachments/69bd9769a1f63753dd605292/download/evidence.jpg,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd96f66970b87955ede6d1,Connect not visible properly,https://trello.com/c/i1TO1cY9/511-connect-not-visible-properly,"Issue ID: 1774032630082
+
+Description: Connect not visible properly
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T18:50:30.082Z
+
+Chat ID: 8623040742",Copy Request (yellow),,,1,https://trello.com/1/cards/69bd96f66970b87955ede6d1/attachments/69bd96f76b626ff0b7ae5b39/download/evidence.jpg,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd96a6318ccd61d3ddaabf,Clicking on message icon not opening msg section,https://trello.com/c/FsDZLToA/510-clicking-on-message-icon-not-opening-msg-section,"Issue ID: 1774032550489
+
+Description: Clicking on message icon not opening msg section
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T18:49:10.489Z
+
+Chat ID: 8623040742",Copy Request (yellow),,,1,https://trello.com/1/cards/69bd96a6318ccd61d3ddaabf/attachments/69bd96a7776c958cb58b5a14/download/evidence.jpg,0,0,0,0,2026-03-24T13:19:10.069Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd957c4308a70bdee916cf,"Not able to open camera from create new reel or story Major bug , also when submit gives exceptional error",https://trello.com/c/IEW5OJak/508-not-able-to-open-camera-from-create-new-reel-or-story-major-bug-also-when-submit-gives-exceptional-error,"Issue ID: 1774032251731
+
+Description: Not able to open camera from create new reel or story Major bug , also when submit gives exceptional error
+
+Priority: HIGH
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T18:44:11.731Z
+
+Chat ID: 8673576825",Priority (red),,,1,https://trello.com/1/cards/69bd957c4308a70bdee916cf/attachments/69bd957caa3b3c424ef3f6d7/download/evidence.jpg,0,0,0,0,2026-03-24T07:32:16.450Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c3f39fef3618f8087e9933,"I have completed my connect profile and verified myself , why main profile is no image.",https://trello.com/c/5z8udvM4/595-i-have-completed-my-connect-profile-and-verified-myself-why-main-profile-is-no-image,"Issue ID: 1774449566925
+
+Description: I have completed my connect profile and verified myself , why main profile is no image.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-25T14:39:26.925Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c3f39fef3618f8087e9933/attachments/69c3f3a03fe4664729941eb1/download/evidence.jpg,0,0,0,0,2026-03-26T10:12:09.995Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c3f32d828506d7b28dcf13,"On enhanced profile , give default user name automatically, user can give later there on , also apply the duplicate check here.",https://trello.com/c/NRrEkHEb/594-on-enhanced-profile-give-default-user-name-automatically-user-can-give-later-there-on-also-apply-the-duplicate-check-here,"Issue ID: 1774449453002
+
+Description: On enhanced profile , give default user name automatically, user can give later there on , also apply the duplicate check here.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-25T14:37:33.002Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c3f32d828506d7b28dcf13/attachments/69c3f32eee10d73fa8fb77f0/download/evidence.jpg,0,0,0,0,2026-03-26T10:12:09.995Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c3f2a97f557fad34e679e4,"While signup as connect, when I upload my image and crop , and rotate the screen and crop the image app turn black. Critical bug",https://trello.com/c/FTJXAesA/593-while-signup-as-connect-when-i-upload-my-image-and-crop-and-rotate-the-screen-and-crop-the-image-app-turn-black-critical-bug,"Issue ID: 1774449321173
+
+Description: While signup as connect, when I upload my image and crop , and rotate the screen and crop the image app turn black. Critical bug
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-25T14:35:21.173Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c3f2a97f557fad34e679e4/attachments/69c3f2aaa800665222151e7c/download/evidence.jpg,0,0,0,0,2026-03-26T10:12:09.995Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c3f09ceda3d599a4eb3b6c,"From earning, login pop comes 2 times.",https://trello.com/c/P9cZldZg/592-from-earning-login-pop-comes-2-times,"Issue ID: 1774448795567
+
+Description: From earning, login pop comes 2 times.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-25T14:26:35.567Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c3f09ceda3d599a4eb3b6c/attachments/69c3f09e87b244813a8db710/download/evidence.mp4,0,0,0,0,2026-03-26T10:12:09.995Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c3f0381c83ff6489b9285e,"I am not logged in still able to go product detail page , it's ok but on the add cart show login page , or add to Cart but when check out make user log in.",https://trello.com/c/LlroR9Wh/591-i-am-not-logged-in-still-able-to-go-product-detail-page-its-ok-but-on-the-add-cart-show-login-page-or-add-to-cart-but-when-check,"Issue ID: 1774448695654
+
+Description: I am not logged in still able to go product detail page , it's ok but on the add cart show login page , or add to Cart but when check out make user log in.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-25T14:24:55.654Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c3f0381c83ff6489b9285e/attachments/69c3f0396759052ff720c799/download/evidence.jpg,0,0,0,0,2026-03-26T10:12:09.995Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c3efbdfb4d06ebbc476d81,"I am not logged in , buttons do not show the pop up of login , look like disabled",https://trello.com/c/8J8Dmmf8/590-i-am-not-logged-in-buttons-do-not-show-the-pop-up-of-login-look-like-disabled,"Issue ID: 1774448573260
+
+Description: I am not logged in , buttons do not show the pop up of login , look like disabled
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-25T14:22:53.260Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c3efbdfb4d06ebbc476d81/attachments/69c3efbf5eeeecc85c19c09f/download/evidence.jpg,0,0,0,0,2026-03-26T10:12:09.995Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c3ef7fe4ea33c15e79d3d4,When astro does not set their availability why is this showing ?,https://trello.com/c/jufRzM8d/589-when-astro-does-not-set-their-availability-why-is-this-showing,"Issue ID: 1774448510471
+
+Description: When astro does not set their availability why is this showing ?
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-25T14:21:50.471Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c3ef7fe4ea33c15e79d3d4/attachments/69c3ef80ab478fffbaa7cd46/download/evidence.jpg,0,0,0,0,2026-03-26T10:12:09.995Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c3ef4694b99c345dc31a24,"Shown error on currency change , but still in side menu after this error currency change is selected",https://trello.com/c/Ex3txY6X/588-shown-error-on-currency-change-but-still-in-side-menu-after-this-error-currency-change-is-selected,"Issue ID: 1774448453745
+
+Description: Shown error on currency change , but still in side menu after this error currency change is selected
+
+Priority: HIGH
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-25T14:20:53.745Z
+
+Chat ID: 8673576825",Priority (red),,,1,https://trello.com/1/cards/69c3ef4694b99c345dc31a24/attachments/69c3ef472f18cf8e3c5a6f68/download/evidence.jpg,0,0,0,0,2026-03-26T10:12:09.995Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c3eef7d7b4f928a467d6c6,"I am able to access horoscope, who horoscope this showing as you don't have my birth details , from the side menu , Stop the user and shows the pop of login",https://trello.com/c/NAhW6nap/587-i-am-able-to-access-horoscope-who-horoscope-this-showing-as-you-dont-have-my-birth-details-from-the-side-menu-stop-the-user-and,"Issue ID: 1774448375279
+
+Description: I am able to access horoscope, who horoscope this showing as you don't have my birth details , from the side menu , Stop the user and shows the pop of login
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-25T14:19:35.279Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c3eef7d7b4f928a467d6c6/attachments/69c3eef9a8956b79789cc583/download/evidence.jpg,0,0,0,0,2026-03-26T10:12:09.995Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c3eec69c6070271e09f26e,"No login pop show when I skip login and on the dashboard , wallet , connect , search , it's look like disable button , show the login pop up",https://trello.com/c/groITB8h/586-no-login-pop-show-when-i-skip-login-and-on-the-dashboard-wallet-connect-search-its-look-like-disable-button-show-the-login-pop-u,"Issue ID: 1774448325622
+
+Description: No login pop show when I skip login and on the dashboard , wallet , connect , search , it's look like disable button , show the login pop up
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-25T14:18:45.622Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c3eec69c6070271e09f26e/attachments/69c3eec78cbfe352ca962870/download/evidence.jpg,0,0,0,0,2026-03-26T10:12:09.995Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c3ee5f97d012d373b36fe4,"I am able to enable biomatric even inam not logged in, from the side menu , Stop the user and shows the pop of login",https://trello.com/c/9zFIikBX/585-i-am-able-to-enable-biomatric-even-inam-not-logged-in-from-the-side-menu-stop-the-user-and-shows-the-pop-of-login,"Issue ID: 1774448222235
+
+Description: I am able to enable biomatric even inam not logged in, from the side menu , Stop the user and shows the pop of login
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-25T14:17:02.235Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c3ee5f97d012d373b36fe4/attachments/69c3ee600eb8faed8a09c77c/download/evidence.jpg,0,0,0,0,2026-03-26T10:12:09.995Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c3ee1a0f667f32b1619a72,"I am able to contact us with logged in from the side menu , Stop the user and shows the pop of login",https://trello.com/c/HELV7Tpj/584-i-am-able-to-contact-us-with-logged-in-from-the-side-menu-stop-the-user-and-shows-the-pop-of-login,"Issue ID: 1774448153570
+
+Description: I am able to contact us with logged in from the side menu , Stop the user and shows the pop of login
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-25T14:15:53.570Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c3ee1a0f667f32b1619a72/attachments/69c3ee1ba6116f076509f4ee/download/evidence.jpg,0,0,0,0,2026-03-26T10:12:09.995Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c3edf1ca604894419b6da3,"I am not logged in and am still able to access compatibility from the side menu , Stop the user and shows the pop of login",https://trello.com/c/8DBWzmJs/583-i-am-not-logged-in-and-am-still-able-to-access-compatibility-from-the-side-menu-stop-the-user-and-shows-the-pop-of-login,"Issue ID: 1774448112979
+
+Description: I am not logged in and am still able to access compatibility from the side menu , Stop the user and shows the pop of login
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-25T14:15:12.979Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c3edf1ca604894419b6da3/attachments/69c3edf387d82d9df7e9cc2c/download/evidence.jpg,0,0,0,0,2026-03-26T10:12:09.995Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c29a2c17404fc47920dd5f,"Delete the Video and Images , when image and video is changed in connect or normal profile of user and astro in app",https://trello.com/c/Y1ziYMBY/580-delete-the-video-and-images-when-image-and-video-is-changed-in-connect-or-normal-profile-of-user-and-astro-in-app,"Issue ID: 1774361132117
+
+Description: Delete the Video and Images , when image and video is changed in connect or normal profile of user and astro in app
+
+Also if reels and story are deleted or expired delete from S3 also
+
+
+
+
+This high priority task.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T14:05:32.117Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,0,,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c24e72cc2b960b2766144e,"Name is not formatted like details page , Name first shouldnbe also in Capital.",https://trello.com/c/5yOMFrIQ/575-name-is-not-formatted-like-details-page-name-first-shouldnbe-also-in-capital,"Issue ID: 1774341746317
+
+Description: Name is not formatted like details page , Name first shouldnbe also in Capital.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T08:42:26.317Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c24e72cc2b960b2766144e/attachments/69c24e739301af99f04cf7e1/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c24d8e4bd715a053bd2636,"Show the user name also in small font in both followers and following list , and search from both name and username.",https://trello.com/c/2CDxPxLW/573-show-the-user-name-also-in-small-font-in-both-followers-and-following-list-and-search-from-both-name-and-username,"Issue ID: 1774341518080
+
+Description: Show the user name also in small font in both followers and following list , and search from both name and username.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T08:38:38.080Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c24d8e4bd715a053bd2636/attachments/69c24d8f354870b8282f6d7a/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c24d13008028a46c2d6508,"Stop the blank searching , check instgram when you search with space no API calls nor results have been affected.",https://trello.com/c/YpOVdU7W/572-stop-the-blank-searching-check-instgram-when-you-search-with-space-no-api-calls-nor-results-have-been-affected,"Issue ID: 1774341395440
+
+Description: Stop the blank searching , check instgram when you search with space no API calls nor results have been affected.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T08:36:35.440Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c24d13008028a46c2d6508/attachments/69c24d142426431847d138c1/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c249b7c83a76db2b1114f3,"How can I follow myself ?, apply the validation in the following api",https://trello.com/c/8Gjb5Nhz/569-how-can-i-follow-myself-apply-the-validation-in-the-following-api,"Issue ID: 1774340535116
+
+Description: How can I follow myself ?, apply the validation in the following api 
+And listing api both.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T08:22:15.116Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c249b7c83a76db2b1114f3/attachments/69c249b8f96e126a0f180d7d/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c24919ba9e6cf902c4640e,Why is it saying 95% profile completed in connect when all the steps are completed?,https://trello.com/c/W7DLc2QW/568-why-is-it-saying-95-profile-completed-in-connect-when-all-the-steps-are-completed,"Issue ID: 1774340376777
+
+Description: Why is it saying 95% profile completed in connect when all the steps are completed?
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T08:19:36.777Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,0,,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c2483460133c034108bb23,"Why is there an add button, now there will be myself profile only",https://trello.com/c/OcHS0uJ0/567-why-is-there-an-add-button-now-there-will-be-myself-profile-only,"Issue ID: 1774340148227
+
+Description: Why is there an add button, now there will be myself profile only 
+
+Remove the add button, also I given bug previously also why there multiple profile and why after edit you redirected me to here 
+
+So solve this bug on the steps , remove the add button first , delete the multiple profile for all the user if exists 
+
+And in the last stop redirected to here 
+
+I will check it all , so just don't make a short cut by just stopping the user from redirecting here.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T08:15:48.227Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c2483460133c034108bb23/attachments/69c24835d0246628b1ae2c00/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c246d1e1ce396bc3e9f44c,Give option to select I don't have any pets,https://trello.com/c/Cwu2T46x/565-give-option-to-select-i-dont-have-any-pets,"Issue ID: 1774339793444
+
+Description: Give option to select I don't have any pets
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T08:09:53.444Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c246d1e1ce396bc3e9f44c/attachments/69c246d20d7274cd67d77466/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c245f7e5cd703f0b697de9,"Already given answer for this , still not getting selected.",https://trello.com/c/DFrOPL66/563-already-given-answer-for-this-still-not-getting-selected,"Issue ID: 1774339575321
+
+Description: Already given answer for this , still not getting selected.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T08:06:15.321Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c245f7e5cd703f0b697de9/attachments/69c245f8331142dd913b6f93/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c24562beb44fa7b7fa82a5,"Status does not get updated in complete listing , still getting add as friend for same user",https://trello.com/c/DD70KHsv/562-status-does-not-get-updated-in-complete-listing-still-getting-add-as-friend-for-same-user,"Issue ID: 1774339426145
+
+Description: Status does not get updated in complete listing , still getting add as friend for same user
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T08:03:46.145Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c24562beb44fa7b7fa82a5/attachments/69c24563bd7976e5972dd653/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c2450c3a5cca31534038e8,I am able to send a blank message,https://trello.com/c/bNJri2gF/561-i-am-able-to-send-a-blank-message,"Issue ID: 1774339339956
+
+Description: I am able to send a blank message
+Fix this everywhere where the msg module has been used.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T08:02:19.956Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c2450c3a5cca31534038e8/attachments/69c2450d271c5e6047d66c7f/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c244c9a7da4ca35b9c5021,"The keyboard sometimes does not get closed , and the animation is not visible properly.",https://trello.com/c/5062zkNc/560-the-keyboard-sometimes-does-not-get-closed-and-the-animation-is-not-visible-properly,"Issue ID: 1774339273382
+
+Description: The keyboard sometimes does not get closed , and the animation is not visible properly.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T08:01:13.382Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c244c9a7da4ca35b9c5021/attachments/69c244cacf9f477d536dc691/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c24481dc37490f2a028899,This video call when my camera is not yet opened ?,https://trello.com/c/mqJST2QH/559-this-video-call-when-my-camera-is-not-yet-opened,"Issue ID: 1774339201517
+
+Description: This video call when my camera is not yet opened ?
+
+I think from the camera enabled before the  call is picked help the user to prepare him self for a video call It should be there.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T08:00:01.517Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c24481dc37490f2a028899/attachments/69c244835faf1173ca0c7b78/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c2435cd6e1708fbd74f86d,"From Connect message, I am not able to go in next line.",https://trello.com/c/sqhCU4aH/557-from-connect-message-i-am-not-able-to-go-in-next-line,"Issue ID: 1774338908245
+
+Description: From Connect message, I am not able to go in next line.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T07:55:08.245Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c2435cd6e1708fbd74f86d/attachments/69c2435ed24184ca4f0bd6de/download/evidence.mp4,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c242b25a3c3c3e1d2bd8ef,Why is the add credit coming in the received gift?,https://trello.com/c/UBKCbzPH/556-why-is-the-add-credit-coming-in-the-received-gift,"Issue ID: 1774338738259
+
+Description: Why is the add credit coming in the received gift? 
+
+You can't add credit in earning and can't withdraw from spending wallet , please correct this.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T07:52:18.259Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c242b25a3c3c3e1d2bd8ef/attachments/69c242b3776c49de5254e9c8/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c2421a8592a2d2ad600c5d,"As I told you already, I have add the paypal account from gift section withdrawal, from wallet it's showing edit bank also , but when I click , by default it's not opening the paypal , also paypal is blank , even I given the details previously, I think it's not saving properly that's why that Transfer on also coming blank.",https://trello.com/c/sIzPSXJw/555-as-i-told-you-already-i-have-add-the-paypal-account-from-gift-section-withdrawal-from-wallet-its-showing-edit-bank-also-but-when,"Issue ID: 1774338586623
+
+Description: As I told you already, I have add the paypal account from gift section withdrawal, from wallet it's showing edit bank also , but when I click , by default it's not opening the paypal , also paypal is blank , even I given the details previously, I think it's not saving properly that's why that Transfer on also coming blank.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T07:49:46.623Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c2421a8592a2d2ad600c5d/attachments/69c2421cc9ce6e42505d260e/download/evidence.mp4,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c241872d24efcd416ad06c,Why TDS is 0 Please Explain.,https://trello.com/c/8j0dSMkI/554-why-tds-is-0-please-explain,"Issue ID: 1774338438867
+
+Description: Why TDS is 0 Please Explain.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T07:47:18.867Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c241872d24efcd416ad06c/attachments/69c241888f1cd5646fc6e234/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c2414b86c345b24fa04588,"First time when I come to credit earning it's showing retry and no transaction, but there are transaction also and balance also.",https://trello.com/c/4X8IQYAU/553-first-time-when-i-come-to-credit-earning-its-showing-retry-and-no-transaction-but-there-are-transaction-also-and-balance-also,"Issue ID: 1774338379375
+
+Description: First time when I come to credit earning it's showing retry and no transaction, but there are transaction also and balance also.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T07:46:19.375Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c2414b86c345b24fa04588/attachments/69c2414cd1ff67531881757f/download/evidence.mp4,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c24036bb47e59cb3137a25,"I want to withdraw the credit , so from the gift section I clicked on withdrawal, I don't have bank saved in my account so I choose paypal and added , but after adding I am not able to see my account, I am stuck here no option left , and same happened with global Bank also , I know it's been removed , but still in live app there is global Bank , or in future may be it's been enabled once again so solve the issue.",https://trello.com/c/Y4BfL9lt/552-i-want-to-withdraw-the-credit-so-from-the-gift-section-i-clicked-on-withdrawal-i-dont-have-bank-saved-in-my-account-so-i-choose,"Issue ID: 1774338101818
+
+Description: I want to withdraw the credit , so from the gift section I clicked on withdrawal, I don't have bank saved in my account so I choose paypal and added , but after adding I am not able to see my account, I am stuck here no option left , and same happened with global Bank also , I know it's been removed , but still in live app there is global Bank , or in future may be it's been enabled once again so solve the issue.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T07:41:41.818Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c24036bb47e59cb3137a25/attachments/69c240379784894a4ea5949a/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c23e1012ff5af8a62871f2,"No notification comes when the user archives the message or Unarchived the message, user should get some kind of notification within the app.",https://trello.com/c/R5nnNBKD/551-no-notification-comes-when-the-user-archives-the-message-or-unarchived-the-message-user-should-get-some-kind-of-notification-wit,"Issue ID: 1774337552620
+
+Description: No notification comes when the user archives the message or Unarchived the message, user should get some kind of notification within the app.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T07:32:32.620Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,0,,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c23d0ada4ce56b5aac045a,"It's me who cancelled the request, still get the notification that Krishna (Other user) has cancelled the request.",https://trello.com/c/p7cH3L1B/550-its-me-who-cancelled-the-request-still-get-the-notification-that-krishna-other-user-has-cancelled-the-request,"Issue ID: 1774337290427
+
+Description: It's me who cancelled the request, still get the notification that Krishna (Other user) has cancelled the request.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T07:28:10.427Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c23d0ada4ce56b5aac045a/attachments/69c23d0b68294d2a9c92557a/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c23c9604e2e94cdc9f323e,Why is there no option to add captions and tags and mention user in a story?,https://trello.com/c/LUBCOOrs/549-why-is-there-no-option-to-add-captions-and-tags-and-mention-user-in-a-story,"Issue ID: 1774337173929
+
+Description: Why is there no option to add captions and tags and mention user in a story?
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T07:26:13.929Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,0,,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c23c352617791b86c3e0dc,"While watching a story , as soon as you touch the screen and there is only one story, watching screen get closed",https://trello.com/c/Hdz9O7CN/548-while-watching-a-story-as-soon-as-you-touch-the-screen-and-there-is-only-one-story-watching-screen-get-closed,"Issue ID: 1774337077702
+
+Description: While watching a story , as soon as you touch the screen and there is only one story, watching screen get closed
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T07:24:37.702Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c23c352617791b86c3e0dc/attachments/69c23c37113b183898c0abb5/download/evidence.mp4,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c1273952e82e3d64cfad67,New Present Location Concept in Connect,https://trello.com/c/KraapICX/536-new-present-location-concept-in-connect,"Issue ID: 1774266169606
+
+Description: New Present Location Concept in Connect 
+
+
+1. add a new column called ""present"", which will come from the user's current location using geo coordinates , this will be different from current location
+2. if the user has not provided the present location, then use their prefilled current location  to show near by
+3. create a good popup for selecting or confirming the present location
+  
+4. design a UI for Present Location in profile feed and details page of profile.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-23T11:42:49.606Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,0,,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c1267762fd40fa88577b4a,*Membership*,https://trello.com/c/TFyxAbNp/535-membership,"Issue ID: 1774265974942
+
+Description: *Membership*
+1. android and ios subscription plans need to be deactivated  
+2. membership should be managed from token, token will deduct from wallet , if low token available, notify user that you low token and open purchase token in App screen, in membership renew Token and duration should be taken latest.
+3. send notification to users that their subscription will expire in 7 days  
+4. year and token count should always be managed from admin parameters  wihle renew and giving new membership 
+5. send notifications on renew and failure, and handle them on the frontend with in-app notification click actions
+
+Priority: HIGH
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-23T11:39:34.942Z
+
+Chat ID: 8673576825",Priority (red),,,0,,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c124798ac853139ff0126e,"New Functionality Should be added, if somebody like anyone, automatically user will follow that user",https://trello.com/c/Y7QuGYZa/532-new-functionality-should-be-added-if-somebody-like-anyone-automatically-user-will-follow-that-user,"Issue ID: 1774265464519
+
+Description: New Functionality Should be added, if somebody like anyone, automatically user will follow that user 
+
+If user like back it should be follow bacj them and became friends also
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-23T11:31:04.519Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,0,,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bda72d9b6fdbcfd62b7f50,"Like emojis why there is no option comment and reply as gif image , add this option",https://trello.com/c/R5iSg0ku/527-like-emojis-why-there-is-no-option-comment-and-reply-as-gif-image-add-this-option,"Issue ID: 1774036780754
+
+Description: Like emojis why there is no option comment and reply as gif image , add this option
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T19:59:40.754Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,0,,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bda3122fefc14500450410,"There is user Ayog Rai , Age 37 in Jodhpur Rajasthan India, Still it's not visible in connect after filter applied",https://trello.com/c/ogFbeEHN/526-there-is-user-ayog-rai-age-37-in-jodhpur-rajasthan-india-still-its-not-visible-in-connect-after-filter-applied,"Issue ID: 1774035730674
+
+Description: There is user Ayog Rai , Age 37 in Jodhpur Rajasthan India, Still it's not visible in connect after filter applied
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T19:42:10.674Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69bda3122fefc14500450410/attachments/69bda315d4b494774cf3f631/download/evidence.mp4,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bda05a67a040039c88805d,"There 2 following user add there story , I am not able to see both of user story in continually, after on its stop not go the other",https://trello.com/c/3nHNwr0U/523-there-2-following-user-add-there-story-i-am-not-able-to-see-both-of-user-story-in-continually-after-on-its-stop-not-go-the-other,"Issue ID: 1774035034627
+
+Description: There 2 following user add there story , I am not able to see both of user story in continually, after on its stop not go the other
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T19:30:34.627Z
+
+Chat ID: 8623040742",Copy Request (yellow),,,1,https://trello.com/1/cards/69bda05a67a040039c88805d/attachments/69bda05c454b94112d1288e5/download/evidence.mp4,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd95a9200a88ee876bc0c1,After recording exception error comes and modules crash,https://trello.com/c/0ns5st3N/509-after-recording-exception-error-comes-and-modules-crash,"Issue ID: 1774032297467
+
+Description: After recording exception error comes and modules crash
+
+Priority: HIGH
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T18:44:57.467Z
+
+Chat ID: 8673576825",Priority (red),,,1,https://trello.com/1/cards/69bd95a9200a88ee876bc0c1/attachments/69bd95aae3a8efa0c905db01/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd0996d7c3e2a0bb912ad0,First time user when received call from any another user pop option cancel and block are not working.,https://trello.com/c/xLQVRHca/500-first-time-user-when-received-call-from-any-another-user-pop-option-cancel-and-block-are-not-working,"Issue ID: 1773924686126
+
+Title: First time user when received call from any another user pop option cancel and block are not working.
+
+Description: First time user when received call from any another user pop option cancel and block are not working.
+
+Priority: HIGH
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T12:51:26.126Z
+
+Chat ID: N/A",,,,0,,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd09961a39565555c90e1a,No option delete the post/reel,https://trello.com/c/4h5bJkod/499-no-option-delete-the-post-reel,"Issue ID: 1773924487997
+
+Title: No option delete the post/reel
+
+Description: No option delete the post/reel
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T12:48:07.997Z
+
+Chat ID: N/A",,,,0,,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd0990b1a6d7b1b96a4357,Not able to send a gift in reels,https://trello.com/c/PfMFCxdd/497-not-able-to-send-a-gift-in-reels,"Issue ID: 1773924313235
+
+Title: Not able to send a gift in reels
+
+Description: Not able to send a gift in reels
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T12:45:13.235Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd0990b1a6d7b1b96a4357/attachments/69bd09930e756e031164609b/download/evidence.mp4,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd098c39785ddc2a6d0ee1,"When the notification was delayed the user stuck with no option  , no back , close or other option user got stuck",https://trello.com/c/15wEmAPh/496-when-the-notification-was-delayed-the-user-stuck-with-no-option-no-back-close-or-other-option-user-got-stuck,"Issue ID: 1773924078045
+
+Title: When the notification was delayed the user stuck with no option  , no back , close or other option user got stuck
+
+Description: When the notification was delayed the user stuck with no option  , no back , close or other option user got stuck
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T12:41:18.045Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd098c39785ddc2a6d0ee1/attachments/69bd098f07e2d98195314e3d/download/evidence.mp4,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd098be7aab440c5310b0a,No option to delete the comment and reply from reel.,https://trello.com/c/GUh3dpB8/495-no-option-to-delete-the-comment-and-reply-from-reel,"Issue ID: 1773923636004
+
+Title: No option to delete the comment and reply from reel.
+
+Description: No option to delete the comment and reply from reel.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T12:33:56.004Z
+
+Chat ID: N/A",,,,0,,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd0988703851bbc09daebf,"This call already end because this notification recived after 15 minute when I am trying to accept nothing is happening, no error no close , user getting confused, please end to call with proper msg even such case",https://trello.com/c/kQkQCVWW/494-this-call-already-end-because-this-notification-recived-after-15-minute-when-i-am-trying-to-accept-nothing-is-happening-no-error,"Issue ID: 1773923448860
+
+Title: This call already end because this notification recived after 15 minute when I am trying to accept nothing is happening, no error no close , user getting confused, please end to call with proper msg even such case
+
+Description: This call already end because this notification recived after 15 minute when I am trying to accept nothing is happening, no error no close , user getting confused, please end to call with proper msg even such case
+
+Priority: HIGH
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T12:30:48.860Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd0988703851bbc09daebf/attachments/69bd09896b71485fd00ecf65/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd09860541bfa46713e6c1,After 15 minutes I received the Msg notification and call notification,https://trello.com/c/yCKnuvCz/493-after-15-minutes-i-received-the-msg-notification-and-call-notification,"Issue ID: 1773923356817
+
+Title: After 15 minutes I received the Msg notification and call notification
+
+Description: After 15 minutes I received the Msg notification and call notification
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T12:29:16.817Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd09860541bfa46713e6c1/attachments/69bd09878771b660f8ce9208/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd09830e756e0311643da3,"In gift notification, the user image is not coming who is sending a gift, The missed call from whom is not clear in notification includes the name and also the DP",https://trello.com/c/gFjLbsuz/492-in-gift-notification-the-user-image-is-not-coming-who-is-sending-a-gift-the-missed-call-from-whom-is-not-clear-in-notification-i,"Issue ID: 1773923272189
+
+Title: In gift notification, the user image is not coming who is sending a gift, The missed call from whom is not clear in notification includes the name and also the DP
+
+Description: In gift notification, the user image is not coming who is sending a gift, The missed call from whom is not clear in notification includes the name and also the DP
+
+OTHER notification also missing Images
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T12:27:52.189Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd09830e756e0311643da3/attachments/69bd0985b04786bd1c4791f4/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd097f7165ac10304826fc,"Pratibha Singh Calling Ayog Rai but Ayog not receiving the call , but when Ayog call this user even in background call are coming, check if this new user issue as exception error comes first so may be because of that call not going thru or Ayog Rai user having issue to reviving the call , this user is on iPhone 16 and Ayog Rai on Nothing 3A android 16 ",https://trello.com/c/QdR7fWqM/490-pratibha-singh-calling-ayog-rai-but-ayog-not-receiving-the-call-but-when-ayog-call-this-user-even-in-background-call-are-coming,"Issue ID: 1773922864422
+
+Title: Pratibha Singh Calling Ayog Rai but Ayog not receiving the call , but when Ayog call this user even in background call are coming, check if this new user issue as exception error comes first so may be because of that call not going thru or Ayog Rai user having issue to reviving the call , this user is on iPhone 16 and Ayog Rai on Nothing 3A android 16 
+
+Description: Pratibha Singh Calling Ayog Rai but Ayog not receiving the call , but when Ayog call this user even in background call are coming, check if this new user issue as exception error comes first so may be because of that call not going thru or Ayog Rai user having issue to reviving the call , this user is on iPhone 16 and Ayog Rai on Nothing 3A android 16 
+Check and fix the issue
+
+Priority: HIGH
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T12:21:04.422Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd097f7165ac10304826fc/attachments/69bd0980259c09d5a14b0f80/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd097d3cc7198e3ca6c488,"When user first time click on call button exceptions error comes , and error throw and visible in app kindly fix , this is first time call in connect",https://trello.com/c/3DQLM2Ye/489-when-user-first-time-click-on-call-button-exceptions-error-comes-and-error-throw-and-visible-in-app-kindly-fix-this-is-first-tim,"Issue ID: 1773922517577
+
+Title: When user first time click on call button exceptions error comes , and error throw and visible in app kindly fix , this is first time call in connect
+
+Description: When user first time click on call button exceptions error comes , and error throw and visible in app kindly fix , this is first time call in connect
+
+Priority: HIGH
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T12:15:17.578Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd097d3cc7198e3ca6c488/attachments/69bd097ef8429d120a70050e/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd096f42ca90d6a460552f,Block is not working,https://trello.com/c/KH8d13J3/483-block-is-not-working,"Issue ID: 1773916572082
+
+Title: Block is not working
+
+Description: Block is not working
+
+Priority: HIGH
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T10:36:12.082Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd096f42ca90d6a460552f/attachments/69bd09711f7367db09469b86/download/evidence.mp4,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd096ca764fc3fbd8db973,After call redirect user to recent call instead of this previous start call pop up,https://trello.com/c/npp69uFS/482-after-call-redirect-user-to-recent-call-instead-of-this-previous-start-call-pop-up,"Issue ID: 1773916498048
+
+Title: After call redirect user to recent call instead of this previous start call pop up
+
+Description: After call redirect user to recent call instead of this previous start call pop up
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T10:34:58.048Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd096ca764fc3fbd8db973/attachments/69bd096e790d5a7ecb2e8a57/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd096877ab68215f3cdaf5,"Image is coming in notification, also request says forever instead on of connect",https://trello.com/c/8HLstg4X/480-image-is-coming-in-notification-also-request-says-forever-instead-on-of-connect,"Issue ID: 1773916391338
+
+Title: Image is coming in notification, also request says forever instead on of connect
+
+Description: Image is coming in notification, also request says forever instead on of connect
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T10:33:11.338Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd096877ab68215f3cdaf5/attachments/69bd0969b16959ec7d6dd8ef/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd096249f2018980193278,Somebody likes my connect profile instead of coming in admire notification badge shows in liked,https://trello.com/c/kXqJRZxU/477-somebody-likes-my-connect-profile-instead-of-coming-in-admire-notification-badge-shows-in-liked,"Issue ID: 1773916193547
+
+Title: Somebody likes my connect profile instead of coming in admire notification badge shows in liked
+
+Description: Somebody likes my connect profile instead of coming in admire notification badge shows in liked
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T10:29:53.547Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd096249f2018980193278/attachments/69bd09632245aa0582e04521/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd095f0858fec0f15c1780,"Connect notification still coming as forever, make it connect",https://trello.com/c/QRkMHndv/476-connect-notification-still-coming-as-forever-make-it-connect,"Issue ID: 1773916098228
+
+Title: Connect notification still coming as forever, make it connect
+
+Description: Connect notification still coming as forever, make it connect
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T10:28:18.228Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd095f0858fec0f15c1780/attachments/69bd0961b2a4d7dcaf739b51/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd09590e80c738d2319ec9,"First time jab profile banate Samy connect ki iPhone jab upload ke liye click karte to camera ka option aata hai vo blank rheta hai , plus sath photo click karo to permission puchne ki jagh ye blank screen aati hai ",https://trello.com/c/0NjXbuMU/473-first-time-jab-profile-banate-samy-connect-ki-iphone-jab-upload-ke-liye-click-karte-to-camera-ka-option-aata-hai-vo-blank-rheta,"Issue ID: 1773915797582
+
+Title: First time jab profile banate Samy connect ki iPhone jab upload ke liye click karte to camera ka option aata hai vo blank rheta hai , plus sath photo click karo to permission puchne ki jagh ye blank screen aati hai 
+
+Description: First time jab profile banate Samy connect ki iPhone jab upload ke liye click karte to camera ka option aata hai vo blank rheta hai , plus sath photo click karo to permission puchne ki jagh ye blank screen aati hai 
+
+To ye broken hai , permission puchni chaiye na ki aise blank screen , second time jab same kiya to pucha
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T10:23:17.582Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd09590e80c738d2319ec9/attachments/69bd095a57fa1766ad71c47c/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd095420c7a8cc499daba1,"I am not able to block the user , blocking functionality is not working",https://trello.com/c/oc2xUYOw/471-i-am-not-able-to-block-the-user-blocking-functionality-is-not-working,"Issue ID: 1773913292561
+
+Title: I am not able to block the user , blocking functionality is not working
+
+Description: I am not able to block the user , blocking functionality is not working
+
+Priority: HIGH
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T09:41:32.561Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd095420c7a8cc499daba1/attachments/69bd095693550e1a48bf31bb/download/evidence.mp4,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd09517aad966db6ff3614,Already existing ya new connect profile jo bhi sabko user name phele se de do,https://trello.com/c/MqCDUreG/469-already-existing-ya-new-connect-profile-jo-bhi-sabko-user-name-phele-se-de-do,"Issue ID: 1773913024722
+
+Title: Already existing ya new connect profile jo bhi sabko user name phele se de do
+
+Description: Already existing ya new connect profile jo bhi sabko user name phele se de do 
+
+Backend se assign kar do , user change karna chahega to kar lega
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T09:37:04.722Z
+
+Chat ID: N/A",,,,0,,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd094e7be4e9d501e00f3b,"Face verification mei kya ho rha user ko pata nhi chal rha hai , to proper guide hona chaiye ki kya pareshani hai ki verification nhi ho paa rha hai to acche se jo bhi karan ho vo user ko batao",https://trello.com/c/YvwBENU7/468-face-verification-mei-kya-ho-rha-user-ko-pata-nhi-chal-rha-hai-to-proper-guide-hona-chaiye-ki-kya-pareshani-hai-ki-verification,"Issue ID: 1773913012229
+
+Title: Face verification mei kya ho rha user ko pata nhi chal rha hai , to proper guide hona chaiye ki kya pareshani hai ki verification nhi ho paa rha hai to acche se jo bhi karan ho vo user ko batao
+
+Description: Face verification mei kya ho rha user ko pata nhi chal rha hai , to proper guide hona chaiye ki kya pareshani hai ki verification nhi ho paa rha hai to acche se jo bhi karan ho vo user ko batao
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T09:36:52.229Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd094e7be4e9d501e00f3b/attachments/69bd095060605fbe67e1026b/download/evidence.mp4,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd093648d371a188de9eb9,"No thumbnail in notification, user ki khud ki image dekho",https://trello.com/c/EY6Hxt3Y/458-no-thumbnail-in-notification-user-ki-khud-ki-image-dekho,"Issue ID: 1773846766660
+
+Title: No thumbnail in notification, user ki khud ki image dekho
+
+Description: No thumbnail in notification, user ki khud ki image dekho
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T15:12:46.660Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd093648d371a188de9eb9/attachments/69bd093798bd21789c3ac25b/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd09285c6f5621c352bb42,Reels se related sare notification mention karo doc mei and UI maango,https://trello.com/c/eAMGYza3/450-reels-se-related-sare-notification-mention-karo-doc-mei-and-ui-maango,"Issue ID: 1773815557708
+
+Title: Reels se related sare notification mention karo doc mei and UI maango
+
+Description: Reels se related sare notification mention karo doc mei and UI maango
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T06:32:37.708Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd09285c6f5621c352bb42/attachments/69bd0929667e48a37dd517f4/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd0925b3ac742900b72501,Top sellers nhi - Top Sales hoga,https://trello.com/c/6H0FfhYb/449-top-sellers-nhi-top-sales-hoga,"Issue ID: 1773815539602
+
+Title: Top sellers nhi - Top Sales hoga
+
+Description: Top sellers nhi - Top Sales hoga
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T06:32:19.602Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd0925b3ac742900b72501/attachments/69bd092705886ebbc0ba5621/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd090beea40650c612c1fc,Fir View Count Gayab,https://trello.com/c/3EUQD9O2/437-fir-view-count-gayab,"Issue ID: 1773815299998
+
+Title: Fir user
+
+Description: Fir user
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T06:28:19.998Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd090beea40650c612c1fc/attachments/69bd090c4cdd8f493850cd40/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd0909c500a4aaae3c2aea,Fir update dikha,https://trello.com/c/B6Lwh0xU/436-fir-update-dikha,"Issue ID: 1773815275737
+
+Title: Fir update dikha
+
+Description: Fir update dikha
+
+Dobara khola
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T06:27:55.737Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd0909c500a4aaae3c2aea/attachments/69bd090aec3d607d00ec5b19/download/evidence.jpg,0,0,0,0,2026-03-24T14:33:31.349Z,69bcd685eab03493fbad667e,Issues,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c2a6ad63e2002506bd190e,AI Astro - category filter is missing.,https://trello.com/c/oMhdauTN/582-ai-astro-category-filter-is-missing,"Issue ID: 1774364333591
+
+Description: AI Astro - category filter is missing.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T14:58:53.591Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c2a6ad63e2002506bd190e/attachments/69c2a6afa7c43deed7317a8b/download/evidence.jpg,0,0,0,1,2026-03-25T08:46:12.290Z,69bcd6995ed92343b8dfee81,In Development,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c2a08b70abf78e33939820,"Check the unused file which was deployed and has not been deleted - on S3 - then we will discuss what to do further - first review everything, then we will discuss.",https://trello.com/c/aTWqYPeo/581-check-the-unused-file-which-was-deployed-and-has-not-been-deleted-on-s3-then-we-will-discuss-what-to-do-further-first-review-eve,"Issue ID: 1774362763619
+
+Description: Check the unused file which was deployed and has not been deleted - on S3 - then we will discuss what to do further - first review everything, then we will discuss…
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T14:32:43.619Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,0,,0,0,0,0,2026-03-25T11:06:17.297Z,69bcd6995ed92343b8dfee81,In Development,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c24c62e54b2aeb472370cd,Messages are not opening from Followers and Following listing,https://trello.com/c/v76ePflJ/571-messages-are-not-opening-from-followers-and-following-listing,"Issue ID: 1774341218032
+
+Description: Messages are not opening from Followers and Following listing
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T08:33:38.032Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c24c62e54b2aeb472370cd/attachments/69c24c6375ff379949d02f73/download/evidence.jpg,0,0,0,0,2026-03-26T10:53:49.214Z,69bcd6995ed92343b8dfee81,In Development,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c249f317655d92d7dcea9c,Same bug in listening of the following API like followers.,https://trello.com/c/pQ0L46xx/570-same-bug-in-listening-of-the-following-api-like-followers,"Issue ID: 1774340595323
+
+Description: Same bug in listening of the following API like followers.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T08:23:15.323Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c249f317655d92d7dcea9c/attachments/69c249f4dfbfedc0f6b979b5/download/evidence.jpg,0,0,0,0,2026-03-26T10:53:49.214Z,69bcd6995ed92343b8dfee81,In Development,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c2463ccf1a4268a86c3574,"I have not changed anything in Image , show this only when anything changed in image.",https://trello.com/c/0JD2x325/564-i-have-not-changed-anything-in-image-show-this-only-when-anything-changed-in-image,"Issue ID: 1774339643758
+
+Description: I have not changed anything in Image , show this only when anything changed in image.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T08:07:23.758Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c2463ccf1a4268a86c3574/attachments/69c2463d20849f4a3e5eacdb/download/evidence.jpg,0,0,0,0,2026-03-26T10:53:49.214Z,69bcd6995ed92343b8dfee81,In Development,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c24405ea664b7b7dad0f4f,"I am not able to get information whether Arvind is getting my call or not , also not dailing or ringing time is coming, also like WhatsApp please show Calling when you calling and ringing when user get the notification and he get ringed.",https://trello.com/c/evaFvabZ/558-i-am-not-able-to-get-information-whether-arvind-is-getting-my-call-or-not-also-not-dailing-or-ringing-time-is-coming-also-like-w,"Issue ID: 1774339077056
+
+Description: I am not able to get information whether Arvind is getting my call or not , also not dailing or ringing time is coming, also like WhatsApp please show Calling when you calling and ringing when user get the notification and he get ringed.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T07:57:57.056Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c24405ea664b7b7dad0f4f/attachments/69c2440617d8103caa64796f/download/evidence.jpg,0,0,0,0,2026-03-26T10:53:49.214Z,69bcd6995ed92343b8dfee81,In Development,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c124d851041cd729c02271,"The dark theme is looking bad , do work in the dark theme",https://trello.com/c/QlSo3UyX/534-the-dark-theme-is-looking-bad-do-work-in-the-dark-theme,"Issue ID: 1774265560571
+
+Description: The dark theme is looking bad ,  do work in the dark theme
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-23T11:32:40.571Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,0,,0,0,0,0,2026-03-25T11:05:42.386Z,69bcd6995ed92343b8dfee81,In Development,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd9bee6e10fc676b045cfd,"I should able to see user story from here also , also when there is no story and when I click on DP should redirect me to user profile , same on clicking on name.",https://trello.com/c/artlEtWh/519-i-should-able-to-see-user-story-from-here-also-also-when-there-is-no-story-and-when-i-click-on-dp-should-redirect-me-to-user-pro,"Issue ID: 1774033902068
+
+Description: I should able to see user story from here also , also when there is no story and when I click on DP should redirect me to user profile , same on clicking on name.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T19:11:42.068Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69bd9bee6e10fc676b045cfd/attachments/69bd9bef35daff3e580a29eb/download/evidence.jpg,0,0,0,0,2026-03-25T11:05:42.386Z,69bcd6995ed92343b8dfee81,In Development,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd9ab6760ae8315cefac5d,"Delete button UI is not good at all should change , ask Designer for UI also in white background name and progress slider is not visible it's should be in that colour which adapt in every background colour",https://trello.com/c/Y2EstmrX/516-delete-button-ui-is-not-good-at-all-should-change-ask-designer-for-ui-also-in-white-background-name-and-progress-slider-is-not-v,"Issue ID: 1774033589834
+
+Description: Delete button UI is not good at all should change , ask Designer for UI also in white background name and progress slider is not visible it's should be in that colour which adapt in every background colour
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T19:06:29.834Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69bd9ab6760ae8315cefac5d/attachments/69bd9ab7308e69621a327062/download/evidence.jpg,0,0,0,0,2026-03-25T11:05:42.386Z,69bcd6995ed92343b8dfee81,In Development,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd93c9c4c1cf6e1168e4fc,"Why after share share count not increased, also make sure that only after share successfully only share count increase, also make sure",https://trello.com/c/6ST4BbSk/503-why-after-share-share-count-not-increased-also-make-sure-that-only-after-share-successfully-only-share-count-increase-also-make,"Issue ID: 1774031816774
+
+Description: Why after share share count not increased, also make sure that only after share successfully only share count increase, also make sure
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T18:36:56.774Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69bd93c9c4c1cf6e1168e4fc/attachments/69bd93ca7b2c84b535a53408/download/evidence.jpg,0,0,0,0,2026-03-25T11:05:42.386Z,69bcd6995ed92343b8dfee81,In Development,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd099797e461c9f7e68a07,"When a user calls and is not received by another user in connect , no answer screen is missing.",https://trello.com/c/hXiRPcKW/501-when-a-user-calls-and-is-not-received-by-another-user-in-connect-no-answer-screen-is-missing,"Issue ID: 1773924795181
+
+Title: When a user calls and is not received by another user in connect , no answer screen is missing.
+
+Description: When a user calls and is not received by another user in connect , no answer screen is missing.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T12:53:15.181Z
+
+Chat ID: N/A",,,,0,,0,0,0,0,2026-03-25T11:05:42.386Z,69bcd6995ed92343b8dfee81,In Development,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd098135d8121cb031977f,"Ayog Rai did not receive notification for the message, but when ayog sent hello back the iPhone user received.",https://trello.com/c/nYbPT2Cx/491-ayog-rai-did-not-receive-notification-for-the-message-but-when-ayog-sent-hello-back-the-iphone-user-received,"Issue ID: 1773923090128
+
+Title: Ayog Rai did not receive notification for the message, but when ayog sent hello back the iPhone user received.
+
+Description: Ayog Rai did not receive notification for the message, but when ayog sent hello back the iPhone user received.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T12:24:50.128Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd098135d8121cb031977f/attachments/69bd0982a5261e8696381552/download/evidence.jpg,0,0,0,0,2026-03-25T11:05:42.386Z,69bcd6995ed92343b8dfee81,In Development,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd0976c379502cf18cfafd,"Feed also keep loading, no results has fetched",https://trello.com/c/OGQ3PkqM/486-feed-also-keep-loading-no-results-has-fetched,"Issue ID: 1773916716998
+
+Title: Feed also keep loading, no results has fetched
+
+Description: Feed also keep loading, no results has fetched
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T10:38:36.998Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd0976c379502cf18cfafd/attachments/69bd097707e2d9819530f419/download/evidence.jpg,0,0,0,0,2026-03-25T11:05:42.386Z,69bcd6995ed92343b8dfee81,In Development,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd0903a6120ff0b85d0f9e,"Transparent hai ek Mei - ek Mei black - ek Mei grey - Itna variation kyun hai same screen Mei ?, pop white hai",https://trello.com/c/8rLtPsRJ/433-transparent-hai-ek-mei-ek-mei-black-ek-mei-grey-itna-variation-kyun-hai-same-screen-mei-pop-white-hai,"Issue ID: 1773815185836
+
+Title: Transparent hai ek Mei - ek Mei black - ek Mei grey - Itna variation kyun hai same screen Mei ?, pop white hai
+
+Description: Transparent hai ek Mei - ek Mei black - ek Mei grey - Itna variation kyun hai same screen Mei ?, pop white hai
+
+@⁨Bhabha⁩ discus hua tha tumhara i
+
+banai hui hai ye ?
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T06:26:25.836Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd0903a6120ff0b85d0f9e/attachments/69bd0904816ac5b5db0c2394/download/evidence.jpg,0,0,0,0,2026-03-25T11:05:42.386Z,69bcd6995ed92343b8dfee81,In Development,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd952b1ffc35a55a1c72bb,"Why is the view there in the reel screen, I think it is not part of the functionality, please remove view count from here , check UI no such functionality is there.",https://trello.com/c/tYpe9pG5/507-why-is-the-view-there-in-the-reel-screen-i-think-it-is-not-part-of-the-functionality-please-remove-view-count-from-here-check-ui,"Issue ID: 1774032171111
+
+Description: Why is the view there in the reel screen, I think it is not part of the functionality, please remove view count from here , check UI no such functionality is there.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T18:42:51.111Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69bd952b1ffc35a55a1c72bb/attachments/69bd952c760f72dd7c4a75e2/download/evidence.jpg,0,0,0,0,2026-03-23T12:18:36.870Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd94b2f0117567e432cc08,No comment is not same as UI,https://trello.com/c/pzsyPFJl/506-no-comment-is-not-same-as-ui,"Issue ID: 1774032049907
+
+Description: No comment is not same as UI
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T18:40:49.907Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69bd94b2f0117567e432cc08/attachments/69bd94b27b50ef1c56cf3253/download/evidence.jpg,0,0,0,0,2026-03-23T12:40:43.963Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd9481b7eb3066459aa943,Why clicking on DP or Name of user not opening the user profile?,https://trello.com/c/DIrh7Lfx/505-why-clicking-on-dp-or-name-of-user-not-opening-the-user-profile,"Issue ID: 1774032001601
+
+Description: Why clicking on DP or Name of user not opening the user profile?
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T18:40:01.601Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69bd9481b7eb3066459aa943/attachments/69bd9482639507f0ec797347/download/evidence.jpg,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd941a12ef772eee602e20,Why clicking on caption not open same as UI ?,https://trello.com/c/7qvZJtbL/504-why-clicking-on-caption-not-open-same-as-ui,"Issue ID: 1774031898360
+
+Description: Why clicking on caption not open  same as UI ?
+
+Please option properly like UI
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T18:38:18.360Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69bd941a12ef772eee602e20/attachments/69bd941b7d5b28dce746b42c/download/evidence.jpg,0,0,0,0,2026-03-23T12:40:48.507Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd92d9e5d137e90a4bb4b6,Mujhe khud ki reels kyun dikh rhi reel mei?,https://trello.com/c/ynCHeBYt/502-mujhe-khud-ki-reels-kyun-dikh-rhi-reel-mei,"Issue ID: 1774031577136
+
+Description: Mujhe khud ki reels kyun dikh rhi reel mei?
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-20T18:32:57.136Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69bd92d9e5d137e90a4bb4b6/attachments/69bd92da251c7940a969fc38/download/evidence.jpg,0,0,0,0,2026-03-23T13:07:23.086Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd0993b193d7ef1feaf897,Instead of you Name is coming if you go to reel post from there profile,https://trello.com/c/0Mxza06l/498-instead-of-you-name-is-coming-if-you-go-to-reel-post-from-there-profile,"Issue ID: 1773924467638
+
+Title: Instead of you Name is coming if you go to reel post from there profile
+
+Description: Instead of you Name is coming if you go to reel post from there profile
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T12:47:47.638Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd0993b193d7ef1feaf897/attachments/69bd0995393e6aa582061bce/download/evidence.jpg,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd097abb85c287b5ffc754,"In App Purchase , apple upi reuest declined , Keep loading",https://trello.com/c/zFFp0X6Y/488-in-app-purchase-apple-upi-reuest-declined-keep-loading,"Issue ID: 1773922018765
+
+Title: In App Purchase , apple upi reuest declined , Keep loading
+
+Description: In App Purchase , apple upi reuest declined , Keep loading
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T12:06:58.765Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd097abb85c287b5ffc754/attachments/69bd097b1811b4c59ddf1eb9/download/evidence.jpg,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd0978a4571bc492c392af,Not able to open profile clicking on do,https://trello.com/c/JsR2z0r1/487-not-able-to-open-profile-clicking-on-do,"Issue ID: 1773921811034
+
+Title: Not able to open profile clicking on do
+
+Description: Not able to open profile clicking on do
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T12:03:31.034Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd0978a4571bc492c392af/attachments/69bd097997720ec7beb6956a/download/evidence.jpg,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd0972431d7bf97fb4fa15,Follow button is coming for my own profile 😄😄😄,https://trello.com/c/v8H6YDMc/484-follow-button-is-coming-for-my-own-profile-%F0%9F%98%84%F0%9F%98%84%F0%9F%98%84,"Issue ID: 1773916615811
+
+Title: Follow button is coming for my own profile 😄😄😄
+
+Description: Follow button is coming for my own profile 😄😄😄
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T10:36:55.811Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd0972431d7bf97fb4fa15/attachments/69bd0973e8ac4e1dc6d88d85/download/evidence.jpg,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd096aaa261e351ae6b3a3,"Reply is coming empty, where Prabibha Singh user comment that, Dhar has nailed",https://trello.com/c/38umm7Xk/481-reply-is-coming-empty-where-prabibha-singh-user-comment-that-dhar-has-nailed,"Issue ID: 1773916444309
+
+Title: Reply is coming empty, where Prabibha Singh user comment that, Dhar has nailed
+
+Description: Reply is coming empty, where Prabibha Singh user comment that, Dhar has nailed
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T10:34:04.309Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd096aaa261e351ae6b3a3/attachments/69bd096ba764fc3fbd8db541/download/evidence.jpg,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd0964880bde507d84c0d9,Duration is missing in recent call history,https://trello.com/c/hcVmekZB/478-duration-is-missing-in-recent-call-history,"Issue ID: 1773916234288
+
+Title: Duration is missing in recent call history
+
+Description: Duration is missing in recent call history
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T10:30:34.288Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd0964880bde507d84c0d9/attachments/69bd0965546d816d467be53f/download/evidence.jpg,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd095bb0041e8ec9330568,"Remove members option now there is only my self so no need to ask , choose default",https://trello.com/c/2fbfStB6/474-remove-members-option-now-there-is-only-my-self-so-no-need-to-ask-choose-default,"Issue ID: 1773915844557
+
+Title: Remove members option now there is only my self so no need to ask , choose default
+
+Description: Remove members option now there is only my self so no need to ask , choose default
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T10:24:04.557Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd095bb0041e8ec9330568/attachments/69bd095c65eb68a185c6b554/download/evidence.jpg,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd0957720ceafe3f74e2a0,Ek hi astro wheel rotation mei dikh rha hai ek hai to mat rotate karo,https://trello.com/c/ow8t8iGq/472-ek-hi-astro-wheel-rotation-mei-dikh-rha-hai-ek-hai-to-mat-rotate-karo,"Issue ID: 1773915793972
+
+Title: Ek hi astro wheel rotation mei dikh rha hai ek hai to mat rotate karo
+
+Description: Ek hi astro wheel rotation mei dikh rha hai ek hai to mat rotate karo
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T10:23:13.972Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd0957720ceafe3f74e2a0/attachments/69bd095862e22f4fa8658152/download/evidence.jpg,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd09515151dfe2ab55be60,Upar slide thik par kitni image vo bhi dikhao jaise 1/3 aise,https://trello.com/c/yNmCVNoa/470-upar-slide-thik-par-kitni-image-vo-bhi-dikhao-jaise-1-3-aise,"Issue ID: 1773913051739
+
+Title: Upar slide thik par kitni image vo bhi dikhao jaise 1/3 aise
+
+Description: Upar slide thik par kitni image vo bhi dikhao jaise 1/3 aise
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T09:37:31.739Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd09515151dfe2ab55be60/attachments/69bd09533f9ac3a800b27657/download/evidence.jpg,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd094c54ed1b6fc8fa70a4,"After successfully verified my self , it's redirect to listing of user , where I can see 2 profile of my self",https://trello.com/c/O8lBNv0E/467-after-successfully-verified-my-self-its-redirect-to-listing-of-user-where-i-can-see-2-profile-of-my-self,"Issue ID: 1773912961721
+
+Title: After successfully verified my self , it's redirect to listing of user , where I can see 2 profile of my self
+
+Description: After successfully verified my self , it's redirect to listing of user , where I can see 2 profile of my self
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T09:36:01.721Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd094c54ed1b6fc8fa70a4/attachments/69bd094d01d460718bfd6cd0/download/evidence.jpg,0,0,0,1,2026-03-23T11:56:47.917Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd09494ed600b9f12ca10b,There is no validation for following unfollow and follow back and already followed?,https://trello.com/c/TSt9tCim/466-there-is-no-validation-for-following-unfollow-and-follow-back-and-already-followed,"Issue ID: 1773912911134
+
+Title: There is no validation for following unfollow and follow back and already followed?
+
+Description: There is no validation for following unfollow and follow back and already followed?
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T09:35:11.134Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd09494ed600b9f12ca10b/attachments/69bd094bc0b4cfa4f8e8265f/download/evidence.mp4,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd094784ed252df68976fa,Arvind ko hi alag alag tarike se 4 bar follow kar liya hai,https://trello.com/c/8qFNR8t9/465-arvind-ko-hi-alag-alag-tarike-se-4-bar-follow-kar-liya-hai,"Issue ID: 1773912825965
+
+Title: Arvind ko hi alag alag tarike se 4 bar follow kar liya hai
+
+Description: Arvind ko hi alag alag tarike se 4 bar follow kar liya hai
+
+Priority: LOW
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-19T09:33:45.965Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd094784ed252df68976fa/attachments/69bd0948e30cc2d91e84f182/download/evidence.jpg,0,0,0,0,2026-03-23T11:55:42.041Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd09429625e2c119c25de1,Live app was crash on add story and shorts (button),https://trello.com/c/cbehWB9Q/464-live-app-was-crash-on-add-story-and-shorts-button,"Issue ID: 1773912344440
+
+Title: Live app was crash on add story and shorts (button)
+
+Description: Live app was crash on add story and shorts (button)
+
+Priority: HIGH
+
+Status: OPEN
+
+Reporter: Bhabha
+
+Date: 2026-03-19T09:25:44.440Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd09429625e2c119c25de1/attachments/69bd0946b2a4d7dcaf73306a/download/evidence.mp4,0,0,0,0,2026-03-23T11:54:19.245Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd094084ed252df6896306,Ye fix kar ok kar hi nhi paa rha hun,https://trello.com/c/uk2xTG2B/463-ye-fix-kar-ok-kar-hi-nhi-paa-rha-hun,"Issue ID: 1773846858036
+
+Title: Ye fix kar ok kar hi nhi paa rha hun
+
+Description: Ye fix kar ok kar hi nhi paa rha hun
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T15:14:18.036Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd094084ed252df6896306/attachments/69bd09417769d64cca6a95b9/download/evidence.jpg,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd093e3d5251c1b2543a43,Sari photo nhi aa rhi hai connect profile new image upload par,https://trello.com/c/CygT5UEs/462-sari-photo-nhi-aa-rhi-hai-connect-profile-new-image-upload-par,"Issue ID: 1773846836774
+
+Title: Sari photo nhi aa rhi hai connect profile new image upload par
+
+Description: Sari photo nhi aa rhi hai connect profile new image upload par
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T15:13:56.774Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd093e3d5251c1b2543a43/attachments/69bd093f3c0850f6d19eccae/download/evidence.jpg,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd093c63c60f14c2b083df,Search kam nhi kar rha reels daalne waali jagh par,https://trello.com/c/nEPWJI4L/461-search-kam-nhi-kar-rha-reels-daalne-waali-jagh-par,"Issue ID: 1773846821589
+
+Title: Search kam nhi kar rha reels daalne waali jagh par
+
+Description: Search kam nhi kar rha reels daalne waali jagh par
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T15:13:41.589Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd093c63c60f14c2b083df/attachments/69bd093dd20ebe52a8b17d95/download/evidence.jpg,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd093a2245aa0582dfd116,Upload ho rha hai pata nhi chala rha hai,https://trello.com/c/PoSlYN0i/460-upload-ho-rha-hai-pata-nhi-chala-rha-hai,"Issue ID: 1773846805575
+
+Title: Upload ho rha hai pata nhi chala rha hai
+
+Description: Upload ho rha hai pata nhi chala rha hai
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T15:13:25.575Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd093a2245aa0582dfd116/attachments/69bd093b2545f048976fa9e3/download/evidence.jpg,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd0938c055492577debcee,"Auto refresh nhi hua about par jaake aaya tab hua , upar se post abhi 0 hai",https://trello.com/c/2JRStRUn/459-auto-refresh-nhi-hua-about-par-jaake-aaya-tab-hua-upar-se-post-abhi-0-hai,"Issue ID: 1773846796945
+
+Title: Auto refresh nhi hua about par jaake aaya tab hua , upar se post abhi 0 hai
+
+Description: Auto refresh nhi hua about par jaake aaya tab hua , upar se post abhi 0 hai
+
+Uploading to dikhayega na story aur reel dono case mei 
+
+Insta ke tarah kar de
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T15:13:16.945Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd0938c055492577debcee/attachments/69bd0939edc11446a4d295e3/download/evidence.jpg,0,0,0,0,2026-03-23T11:56:05.066Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd093441dfe4bb0e48d225,Same UI jaisa nhi whan shayad cross hai following laga diya button UI mei button nhi hai,https://trello.com/c/7FE4OGMe/457-same-ui-jaisa-nhi-whan-shayad-cross-hai-following-laga-diya-button-ui-mei-button-nhi-hai,"Issue ID: 1773846741956
+
+Title: Same UI jaisa nhi whan shayad cross hai following laga diya button UI mei button nhi hai
+
+Description: Same UI jaisa nhi whan shayad cross hai following laga diya button UI mei button nhi hai
+
+Priority: LOW
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T15:12:21.956Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd093441dfe4bb0e48d225/attachments/69bd09354c3758b8d11fecab/download/evidence.jpg,0,0,0,1,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd0932c5520ee7af044265,Connect image upload se story ka option kyun open ho rha hai?,https://trello.com/c/rri8jAUO/456-connect-image-upload-se-story-ka-option-kyun-open-ho-rha-hai,"Issue ID: 1773846719142
+
+Title: Connect image upload se story ka option kyun open ho rha hai?
+
+Description: Connect image upload se story ka option kyun open ho rha hai?
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T15:11:59.142Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd0932c5520ee7af044265/attachments/69bd0933b10252dace4eb400/download/evidence.jpg,0,0,0,0,2026-03-23T11:51:03.076Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd092f9851bc4d7641eb42,Profile image nhi connect image mei bhi overlap ho rha hai,https://trello.com/c/MRvMRxKc/455-profile-image-nhi-connect-image-mei-bhi-overlap-ho-rha-hai,"Issue ID: 1773846700792
+
+Title: Profile image nhi connect image mei bhi overlap ho rha hai
+
+Description: Profile image nhi connect image mei bhi overlap ho rha hai
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T15:11:40.792Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd092f9851bc4d7641eb42/attachments/69bd09310fcb56dcbd47ec32/download/evidence.jpg,0,0,0,0,2026-03-23T11:51:06.999Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd092d77d0a8549098026c,Same hi to hua kyun nhi check karo properly,https://trello.com/c/pP0WjGSf/454-same-hi-to-hua-kyun-nhi-check-karo-properly,"Issue ID: 1773846681199
+
+Title: Same hi to hua kyun nhi check karo properly
+
+Description: Same hi to hua kyun nhi check karo properly
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T15:11:21.199Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd092d77d0a8549098026c/attachments/69bd092e542b7906ff830bce/download/evidence.jpg,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd092bc29b91bd958f87f4,New image thi fir bhi verification image old ho aa rhi hai,https://trello.com/c/SAS0voOh/453-new-image-thi-fir-bhi-verification-image-old-ho-aa-rhi-hai,"Issue ID: 1773846667713
+
+Title: New image thi fir bhi verification image old ho aa rhi hai
+
+Description: New image thi fir bhi verification image old ho aa rhi hai
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T15:11:07.713Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd092bc29b91bd958f87f4/attachments/69bd092c0fc48aed1093f84e/download/evidence.jpg,0,0,0,0,2026-03-23T11:51:15.290Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd092b1600fa82c299f71e,Unverified ke baad profile tab par abhi verified dikh rha hai,https://trello.com/c/tLbEXgSV/452-unverified-ke-baad-profile-tab-par-abhi-verified-dikh-rha-hai,"Issue ID: 1773846663075
+
+Title: Unverified ke baad profile tab par abhi verified dikh rha hai
+
+Description: Unverified ke baad profile tab par abhi verified dikh rha hai
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T15:11:03.075Z
+
+Chat ID: N/A",,,,0,,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd092a2040f341282a44a9,1. Camera option and gallery option dono aane chaiye,https://trello.com/c/X7QJO3yR/451-1-camera-option-and-gallery-option-dono-aane-chaiye,"Issue ID: 1773846659324
+
+Title: 1. Camera option and gallery option dono aane chaiye
+
+Description: 1. Camera option and gallery option dono aane chaiye 
+2. Camera option mei sari image nhi aa rhi phone ki 
+3. Story option kyun aa rha hai connect image upload mei 
+4. Upload karne ke baad use current image se karne par verify nhi hua 
+5. New verification image se bhi verify nhi hua 
+6. New verify hone par jo image load ho ke aai vo purani waali verification image aa hai 
+7. Verification fail hone ke baad connect profile tab update nhi hui 
+8. Verification flow mei verification nhi ho rha stuck ho rha hai , user ko text dikhao mobile aage piche karne ka.
+
+Priority: HIGH
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T15:10:59.324Z
+
+Chat ID: N/A",,,,0,,0,0,0,0,2026-03-20T11:50:40.509Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd09231151da197937e809,Notifications are not showing clearly in activity,https://trello.com/c/JrzbUJbG/448-notifications-are-not-showing-clearly-in-activity,"Issue ID: 1773815510511
+
+Title: Notifications are not showing clearly in activity
+
+Description: Notifications are not showing clearly in activity
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T06:31:50.511Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd09231151da197937e809/attachments/69bd092461cb0e9b27c10d08/download/evidence.jpg,0,0,0,0,2026-03-23T11:51:29.187Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd0921259c09d5a149d499,Not Same at all,https://trello.com/c/kzYUZiyv/447-not-same-at-all,"Issue ID: 1773815495584
+
+Title: Not Same at all
+
+Description: Not Same at all 
+
+Agar UI change hui to 
+Tum export liya karo PNG mei fir kam kiya karo 
+
+@⁨~Uditt Shrrimali⁩ designer ko bolo ya khichdi kyun kar rha ha
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T06:31:35.584Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd0921259c09d5a149d499/attachments/69bd0922fe688c28bc652b84/download/evidence.jpg,0,0,0,0,2026-03-23T11:51:36.898Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd091f1e9a8396282eaac7,UI se match hi nhi ho rha hai,https://trello.com/c/j4zqn34k/446-ui-se-match-hi-nhi-ho-rha-hai,"Issue ID: 1773815479301
+
+Title: UI se match hi nhi ho rha hai
+
+Description: UI se match hi nhi ho rha hai
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T06:31:19.301Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd091f1e9a8396282eaac7/attachments/69bd09209f2aafec878e6120/download/evidence.jpg,0,0,0,0,2026-03-23T11:51:39.857Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd091b57fa1766ad719517,Unfollow ka button aisa kyun hai UI maango iski,https://trello.com/c/v9nUQh9y/444-unfollow-ka-button-aisa-kyun-hai-ui-maango-iski,"Issue ID: 1773815448285
+
+Title: Unfollow ka button aisa kyun hai UI maango iski
+
+Description: Unfollow ka button aisa kyun hai UI maango iski
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T06:30:48.285Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd091b57fa1766ad719517/attachments/69bd091c6d4ecfb1b399daaf/download/evidence.jpg,0,0,0,0,2026-03-23T11:51:43.146Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd0919bc93bf12be6ed974,Date daalo time ke sath phele ko do msg pata nhi kab ke hai,https://trello.com/c/Tq7Bi1FB/443-date-daalo-time-ke-sath-phele-ko-do-msg-pata-nhi-kab-ke-hai,"Issue ID: 1773815430255
+
+Title: Date daalo time ke sath phele ko do msg pata nhi kab ke hai
+
+Description: Date daalo time ke sath phele ko do msg pata nhi kab ke hai
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T06:30:30.255Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd0919bc93bf12be6ed974/attachments/69bd091a57fa1766ad71947e/download/evidence.jpg,0,0,0,0,2026-03-23T11:51:46.994Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69c24735981944127d7783bd,Image sent where to review ? Do you think this notification is required?,https://trello.com/c/66gADDVt/566-image-sent-where-to-review-do-you-think-this-notification-is-required,"Issue ID: 1774339893425
+
+Description: Image sent where to review ? Do you think this notification is required? 
+
+Just don't remove , explain to me , and if required let it be there , if not then remove this toast msg.
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: Ayog Rai
+
+Date: 2026-03-24T08:11:33.425Z
+
+Chat ID: 8673576825",Copy Request (yellow),,,1,https://trello.com/1/cards/69c24735981944127d7783bd/attachments/69c247367cb46f7cdfe2a55c/download/evidence.jpg,0,0,0,0,2026-03-26T10:52:44.349Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd09173f0429d6955ee9c3,Global user ke liye ye bank option remove karo,https://trello.com/c/u8CQz8hG/442-global-user-ke-liye-ye-bank-option-remove-karo,"Issue ID: 1773815405576
+
+Title: Global user ke liye ye bank option remove karo
+
+Description: Global user ke liye ye bank option remove karo
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T06:30:05.576Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd09173f0429d6955ee9c3/attachments/69bd091888fa74965b732430/download/evidence.jpg,0,0,0,0,2026-03-23T11:51:49.964Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd09135f7712f6dd577754,Not same as UI,https://trello.com/c/d57Gwwtn/440-not-same-as-ui,"Issue ID: 1773815350242
+
+Title: Not same as UI
+
+Description: Not same as UI
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T06:29:10.242Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd09135f7712f6dd577754/attachments/69bd09139ca92e49921a186a/download/evidence.jpg,0,0,0,0,2026-03-23T11:51:52.557Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd09113a85a0146ca34c8e,Unfollow kar diya fir bhi aa rha hai user upar 0 hai fir bhi,https://trello.com/c/v0EFAh3O/439-unfollow-kar-diya-fir-bhi-aa-rha-hai-user-upar-0-hai-fir-bhi,"Issue ID: 1773815334191
+
+Title: Unfollow kar diya fir bhi aa rha hai user upar 0 hai fir bhi
+
+Description: Unfollow kar diya fir bhi aa rha hai user upar 0 hai fir bhi
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T06:28:54.191Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd09113a85a0146ca34c8e/attachments/69bd09126c313991619045c9/download/evidence.jpg,0,0,0,0,2026-03-23T11:51:56.099Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd090fac0d1c340b1b41b2,No post nhi aa rha hai,https://trello.com/c/W7znViHM/438-no-post-nhi-aa-rha-hai,"Issue ID: 1773815316297
+
+Title: No post nhi aa rha hai
+
+Description: No post nhi aa rha hai
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T06:28:36.297Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd090fac0d1c340b1b41b2/attachments/69bd09106d856024d42ce0b1/download/evidence.jpg,0,0,0,0,2026-03-23T11:52:00.054Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd0905ae19f16e13141452,Niche DP alag Upar alag?,https://trello.com/c/lwGrndiC/434-niche-dp-alag-upar-alag,"Issue ID: 1773815206114
+
+Title: Niche DP alag Upar alag?
+
+Description: Niche DP alag Upar alag?
+
+Priority: LOW
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T06:26:46.114Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd0905ae19f16e13141452/attachments/69bd09067975244dc8f9d1ad/download/evidence.jpg,0,0,0,0,2026-03-23T11:52:08.993Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd0901a062babb703b658e,Green kyun UI mei white hai,https://trello.com/c/PDIRjqq3/432-green-kyun-ui-mei-white-hai,"Issue ID: 1773815157531
+
+Title: Green kyun UI mei white hai
+
+Description: Green kyun UI mei white hai
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T06:25:57.531Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd0901a062babb703b658e/attachments/69bd09024cdd8f493850b072/download/evidence.jpg,0,0,0,0,2026-03-23T11:52:15.431Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd08feb58ef6b4741c0a7d,This same like Insta,https://trello.com/c/Ltu1ZJuf/431-this-same-like-insta,"Issue ID: 1773815132571
+
+Title: This same like Insta
+
+Description: This same like Insta
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T06:25:32.571Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd08feb58ef6b4741c0a7d/attachments/69bd09000d8581ce087981ed/download/evidence.jpg,0,0,0,0,2026-03-23T11:52:28.151Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd08fcc6d3bfc87eb8588f,Top menu bhi same nhi UI ke,https://trello.com/c/4dn0sm6U/430-top-menu-bhi-same-nhi-ui-ke,"Issue ID: 1773815111501
+
+Title: Top menu bhi same nhi UI ke
+
+Description: Top menu bhi same nhi UI ke
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T06:25:11.501Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd08fcc6d3bfc87eb8588f/attachments/69bd08fdeb7f53deff5b2435/download/evidence.jpg,0,0,0,0,2026-03-23T11:52:22.948Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd08fac0034f8c9bb5e693,Button same nhi hai,https://trello.com/c/E8PY12fs/429-button-same-nhi-hai,"Issue ID: 1773815096051
+
+Title: Button same nhi hai
+
+Description: Button same nhi hai 
+Follow karne ke baad following aana chaiye 
+Following ke click par unfollow hona chaiye
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T06:24:56.051Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd08fac0034f8c9bb5e693/attachments/69bd08fbd4b2e6f994f7fde4/download/evidence.jpg,0,0,0,0,2026-03-23T11:52:32.529Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd08f77b4f2d4c29d1cbf5,Sari files story mei avilable nhi hai,https://trello.com/c/cNLDYBqq/427-sari-files-story-mei-avilable-nhi-hai,"Issue ID: 1773815017469
+
+Title: Sari files story mei avilable nhi hai
+
+Description: Sari files story mei avilable nhi hai 
+Video and photo limited aa rhe hai
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T06:23:37.469Z
+
+Chat ID: N/A",,,,0,,0,0,0,0,2026-03-25T07:25:06.563Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd08f70d4606d63ae10667,Share and comment is not working,https://trello.com/c/8O8Dvca5/428-share-and-comment-is-not-working,"Issue ID: 1773815064805
+
+Title: Share and comment is not working
+
+Description: Share and comment is not working
+
+Send msg ko comment bana de
+
+Aur comment yahi dikh jaye
+
+Jaise koi story dekhe kisi ne comment Kiya to story chalte hue dikh jaye
+
+Priority: HIGH
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T06:24:24.805Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd08f70d4606d63ae10667/attachments/69bd08f86ff7e53d91899180/download/evidence.jpg,0,0,0,0,2026-03-23T11:52:36.357Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd08f417ecf47182d572f6,Ab ja ke mera naam aaya hai,https://trello.com/c/dszfqPf2/426-ab-ja-ke-mera-naam-aaya-hai,"Issue ID: 1773814995074
+
+Title: Ab ja ke mera naam aaya hai
+
+Description: Ab ja ke mera naam aaya hai
+
+Cache ka issue hai
+
+Priority: MEDIUM
+
+Status: OPEN
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T06:23:15.074Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd08f417ecf47182d572f6/attachments/69bd08f5f8429d120a6fc3e9/download/evidence.jpg,0,0,0,0,2026-03-23T11:52:41.951Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,
+69bd08f247849f274b9edae6,Emoji dekho kaise aa rhi hai,https://trello.com/c/Gg0wwjb6/425-emoji-dekho-kaise-aa-rhi-hai,"Issue ID: 1773814886775
+
+Title: Emoji dekho kaise aa rhi hai
+
+Description: Emoji dekho kaise aa rhi hai
+Plus mere naam par K kyun aa rha hai
+
+Priority: MEDIUM
+
+Status: DONE
+
+Reporter: unknown (Bhabha)
+
+Date: 2026-03-18T06:21:26.775Z
+
+Chat ID: N/A",,,,1,https://trello.com/1/cards/69bd08f247849f274b9edae6/attachments/69bd08f42df8c26e1e54e6ae/download/evidence.jpg,0,0,0,0,2026-03-23T11:52:47.651Z,69bcc0a478f5faa9a902ee40,Review,69bcc0a478f5faa9a902ee43,Karmm ,false,,false,

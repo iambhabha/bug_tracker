@@ -29,12 +29,13 @@ function normalizeStatusValue(status) {
 function getStatusStyle(status) {
   const normalized = normalizeStatusValue(status);
   const styleMap = {
-    "OPEN": { bg: "#2563eb", fg: "#ffffff" },
-    "IN PROGRESS": { bg: "#0ea5e9", fg: "#ffffff" },
-    "IN REVIEW": { bg: "#7c3aed", fg: "#ffffff" },
-    "BUG NOT RESOLVED": { bg: "#ea580c", fg: "#ffffff" },
-    "FUTURE UPDATE": { bg: "#334155", fg: "#ffffff" },
-    "DONE": { bg: "#16a34a", fg: "#ffffff" }
+    "OPEN": { "bg": "#94a3b8", "fg": "#ffffff" },
+    "ISSUES": { "bg": "#dc2626", "fg": "#ffffff" },
+    "IN PROGRESS": { "bg": "#0ea5e9", "fg": "#ffffff" },
+    "IN REVIEW": { "bg": "#ca8a04", "fg": "#ffffff" },
+    "BUG NOT RESOLVED": { "bg": "#ea580c", "fg": "#ffffff" },
+    "FUTURE UPDATE": { "bg": "#64748b", "fg": "#ffffff" },
+    "DONE": { "bg": "#16a34a", "fg": "#ffffff" }
   };
   return styleMap[normalized] || null;
 }
@@ -166,18 +167,6 @@ function doPost(e) {
       for (let i = 1; i < rows.length; i++) { if (rows[i][0] == data.id) { sheet.getRange(i + 1, col).setValue(data.chatId); return ContentService.createTextOutput("Linked"); } }
     }
 
-    if (data.action === "linkimage") {
-      const colImage = getColumnIndexByHeader(sheet, "Image", 9);
-      const colPreview = getColumnIndexByHeader(sheet, "Preview", 14);
-      for (let i = 1; i < rows.length; i++) {
-        if (rows[i][0] == data.id) {
-          sheet.getRange(i + 1, colImage).setValue(data.image);
-          sheet.getRange(i + 1, colPreview).setFormula(`=IMAGE(I${i + 1})`);
-          return ContentService.createTextOutput("Image Linked");
-        }
-      }
-    }
-
     if (data.action === "assign") {
       for (let i = 1; i < rows.length; i++) { if (rows[i][0] == data.id) { sheet.getRange(i + 1, 12).setValue(data.assignee); return ContentService.createTextOutput("Assigned"); } }
     }
@@ -187,11 +176,36 @@ function doPost(e) {
     }
 
     if (data.action === "create") {
+      // Check if ID already exists to avoid duplicates
+      let targetRow = -1;
+      for (let i = 1; i < rows.length; i++) {
+        if (rows[i][0] == data.id) {
+          targetRow = i + 1;
+          break;
+        }
+      }
+
+      const status = normalizeStatusValue(data.status);
+      
+      if (targetRow !== -1) {
+        // Update existing row if needed (optional, or just return "Already Exists")
+        sheet.getRange(targetRow, 8).setValue(status);
+        if (data.image) {
+          sheet.getRange(targetRow, 9).setValue(data.image);
+          sheet.getRange(targetRow, 14).setFormula(`=IMAGE(I${targetRow})`);
+        }
+        applyStatusCellStyle(sheet, targetRow, status);
+        return ContentService.createTextOutput("Updated existing record");
+      }
+
       const newRow = sheet.getLastRow() + 1;
-      sheet.getRange(newRow, 1, 1, 14).setValues([[data.id, data.title, data.description, data.steps, data.expected, data.actual, data.priority, normalizeStatusValue(data.status), data.image, data.reporter, data.date, "", data.chatId || "", ""]]);
+      sheet.getRange(newRow, 1, 1, 14).setValues([[data.id, data.title, data.description, data.steps, data.expected, data.actual, data.priority, status, data.image, data.reporter, data.date, "", data.chatId || "", ""]]);
       sheet.getRange(newRow, 14).setFormula(`=IMAGE(I${newRow})`);
       sheet.setRowHeight(newRow, 250);
-      beautifyDashboard(sheet);
+      
+      if (!data.skipBeautify) {
+        beautifyDashboard(sheet);
+      }
       return ContentService.createTextOutput("Created");
     }
     return ContentService.createTextOutput("OK");
